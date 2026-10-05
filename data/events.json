@@ -1,0 +1,4 @@
+{
+  "_help": "Your hand-picked events. Claude adds to this when you send a screenshot or link. Fields: title, type (meetup|conference|hackathon|webinar|workshop|other), platform, start, end, deadline, location, online, url, notes, tags.",
+  "events": []
+}

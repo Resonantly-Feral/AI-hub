@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI Events Hub</title>
+  <meta name="description" content="All my AI meetups, conferences and hackathons in one calm place.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🗓️</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <h1>AI Events Hub</h1>
+      <p class="sub" id="robot-status">Loading…</p>
+    </div>
+  </header>
+
+  <nav class="tabs wrap" role="tablist" aria-label="Views">
+    <button role="tab" data-view="upcoming" aria-selected="true">Coming up <span class="count" id="c-upcoming"></span></button>
+    <button role="tab" data-view="new">New finds <span class="count" id="c-new"></span></button>
+    <button role="tab" data-view="plans">My plans <span class="count" id="c-plans"></span></button>
+    <button role="tab" data-view="past">Past</button>
+  </nav>
+
+  <section class="filters wrap" aria-label="Filters">
+    <input type="search" id="q" placeholder="Search title, place, notes…" aria-label="Search">
+    <select id="f-type" aria-label="Type">
+      <option value="">All types</option>
+      <option value="meetup">Meetups</option>
+      <option value="conference">Conferences</option>
+      <option value="hackathon">Hackathons</option>
+      <option value="webinar">Webinars</option>
+      <option value="workshop">Workshops</option>
+      <option value="other">Other</option>
+    </select>
+    <select id="f-platform" aria-label="Platform"><option value="">All platforms</option></select>
+    <label class="check"><input type="checkbox" id="f-online"> Online only</label>
+  </section>
+
+  <main class="wrap" id="list" aria-live="polite"></main>
+
+  <section class="wrap add">
+    <details id="add-box">
+      <summary>➕ Add an event by hand</summary>
+      <p class="hint">Saved on this device only. The easiest way is to send Claude a screenshot or link and say “add this to my events”.</p>
+      <form id="add-form">
+        <label>Title <input name="title" required></label>
+        <div class="row">
+          <label>Type
+            <select name="type">
+              <option value="meetup">Meetup</option><option value="conference">Conference</option>
+              <option value="hackathon">Hackathon</option><option value="webinar">Webinar</option>
+              <option value="workshop">Workshop</option><option value="other">Other</option>
+            </select>
+          </label>
+          <label>Platform <input name="platform" list="platform-list" placeholder="Luma, Meetup…"></label>
+        </div>
+        <div class="row">
+          <label>Starts <input name="start" type="datetime-local" required></label>
+          <label>Ends <input name="end" type="datetime-local"></label>
+        </div>
+        <label>Place <input name="location" placeholder="Address, or Online"></label>
+        <label>Link <input name="url" type="url" placeholder="https://"></label>
+        <label>Notes <textarea name="notes" rows="2"></textarea></label>
+        <button type="submit" class="primary">Save event</button>
+      </form>
+      <datalist id="platform-list"></datalist>
+      <div class="export">
+        <button type="button" id="export-btn">Copy my device-only events (to give to Claude)</button>
+        <span id="export-msg" class="hint"></span>
+      </div>
+    </details>
+  </section>
+
+  <footer class="wrap foot">
+    <p>Your ⭐ / ✅ / 🙈 choices are saved in this browser. Hand-picked events live in <code>data/events.json</code>, robot finds in <code>data/discovered.json</code>.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

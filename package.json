@@ -1,0 +1,10 @@
+{
+  "name": "ai-events-hub",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "collect": "node scripts/collect.mjs",
+    "test": "node --test test/*.test.mjs",
+    "serve": "npx --yes serve ."
+  }
+}
