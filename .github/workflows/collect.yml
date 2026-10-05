@@ -1,0 +1,35 @@
+name: Find new AI events
+
+on:
+  schedule:
+    - cron: "17 6 * * *" # every day, 06:17 UTC
+  workflow_dispatch: {}   # lets you press "Run workflow" on the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node --test test/*.test.mjs
+      - run: node scripts/collect.mjs
+      - name: Save results
+        run: |
+          if git diff --quiet data/discovered.json; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git config user.name "event-robot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/discovered.json
+          git commit -m "Robot: refresh discovered events"
+          git push

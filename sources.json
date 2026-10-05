@@ -1,0 +1,22 @@
+{
+  "_help": "Where the robot looks. Edit freely (or ask Claude to). Keywords decide what counts as 'AI' for calendar feeds.",
+  "keywords": [
+    "ai", "a.i.", "artificial intelligence", "machine learning", "ml", "llm", "llms", "gpt", "genai", "gen ai",
+    "generative", "agent", "agents", "agentic", "deep learning", "neural", "nlp", "computer vision",
+    "data science", "prompt", "prompting", "rag", "claude", "openai", "anthropic", "gemini", "hugging face", "mlops"
+  ],
+  "devpost": {
+    "enabled": true,
+    "searches": ["AI", "machine learning", "LLM", "agents"],
+    "pages": 2
+  },
+  "ics": [
+    {
+      "_example": "Copy this block, fill in the url, and set enabled by giving it a url. Luma: open a calendar → 'Subscribe' → copy the iCal link. Meetup: https://www.meetup.com/GROUP-NAME/events/ical/",
+      "name": "Example calendar",
+      "platform": "Luma",
+      "url": "",
+      "filter": true
+    }
+  ]
+}
