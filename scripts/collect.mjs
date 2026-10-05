@@ -12,7 +12,7 @@ import path from "node:path";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const HORIZON_DAYS = 240; // ignore events further away than ~8 months
-const UA = "ai-events-hub/1.0 (+https://github.com)";
+const UA = "ai-hub/1.0 (+https://github.com)";
 
 // ---------- helpers ----------
 

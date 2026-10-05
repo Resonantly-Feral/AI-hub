@@ -35,7 +35,7 @@ The robot runs daily at 06:17 UTC. To run it right now: **Actions** tab → *Fin
 ## Putting the page online (one-time)
 
 **Settings → Pages → Build and deployment → Source: "Deploy from a branch" → Branch: `main` / `(root)` → Save.**
-A minute later it's live at `https://<your-username>.github.io/ai-events-hub/`.
+A minute later it's live at `https://<your-username>.github.io/ai-hub/`.
 
 ## For tinkerers
 
