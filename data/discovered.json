@@ -1,6 +1,774 @@
 {
-  "updated": null,
-  "checked": null,
-  "sources": [],
-  "events": []
+  "updated": "2026-10-06T13:16:05.923Z",
+  "checked": "2026-10-06T13:16:05.923Z",
+  "sources": [
+    {
+      "name": "Devpost",
+      "ok": true,
+      "count": 37
+    }
+  ],
+  "events": [
+    {
+      "id": "devpost-29411",
+      "title": "Galuxium Nexus V2",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-07-15",
+      "end": "2026-10-31",
+      "deadline": "2026-10-31",
+      "when_text": "Jul 15 - Oct 31, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://galuxium-nexus-v2-29411.devpost.com/",
+      "organizer": "Galuxium",
+      "prize": "$14,644",
+      "tags": [
+        "Enterprise",
+        "Machine Learning/AI",
+        "Productivity"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-30740",
+      "title": "Code for Humanity",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-07-16",
+      "end": "2027-01-15",
+      "deadline": "2027-01-15",
+      "when_text": "Jul 16, 2026 - Jan 15, 2027",
+      "location": "Online",
+      "online": true,
+      "url": "https://code-for-humanity.devpost.com/",
+      "organizer": "nill",
+      "prize": "",
+      "tags": [
+        "Education",
+        "Machine Learning/AI",
+        "Web"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-30790",
+      "title": "Nebius x NVIDIA Global AI Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-08-26",
+      "end": "2026-10-30",
+      "deadline": "2026-10-30",
+      "when_text": "Aug 26 - Oct 30, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://nebiusglobalaihackathon.devpost.com/",
+      "organizer": "nebius",
+      "prize": "$50,000",
+      "tags": [
+        "Machine Learning/AI",
+        "Beginner Friendly",
+        "Robotic Process Automation"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-30984",
+      "title": "OpenCV AI Competition 2026, powered by AWS",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-08-26",
+      "end": "2026-10-27",
+      "deadline": "2026-10-27",
+      "when_text": "Aug 26 - Oct 27, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://opencv26.devpost.com/",
+      "organizer": "OpenCV",
+      "prize": "$20,250",
+      "tags": [
+        "IoT",
+        "Machine Learning/AI",
+        "Serverless"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-30992",
+      "title": "Build, Ship, Shape: Amazon Developer Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-08-31",
+      "end": "2026-10-23",
+      "deadline": "2026-10-23",
+      "when_text": "Aug 31 - Oct 23, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://amazonappdev2026.devpost.com/",
+      "organizer": "Amazon",
+      "prize": "$138,000",
+      "tags": [
+        "Machine Learning/AI",
+        "Open Ended",
+        "Productivity"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31116",
+      "title": "Next Gen Hackathon 2026 -Bengaluru",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-09-01",
+      "end": "2026-10-23",
+      "deadline": "2026-10-23",
+      "when_text": "Sep 01 - Oct 23, 2026",
+      "location": "Tripura Vasini Palace Grounds, Bengaluru",
+      "online": false,
+      "url": "https://next-gen-hackathon.devpost.com/",
+      "organizer": "RAAIF",
+      "prize": "₹ 50,000",
+      "tags": [
+        "AR/VR",
+        "IoT",
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31052",
+      "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-09-14",
+      "end": "2026-10-28",
+      "deadline": "2026-10-28",
+      "when_text": "Sep 14 - Oct 28, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://aws-cds-partner.devpost.com/",
+      "organizer": "AWS",
+      "prize": "$40,000",
+      "tags": [
+        "Communication",
+        "Mobile",
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31398",
+      "title": "Databricks AI Social Impact (DAISI) Challenge - Singapore",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-09-16",
+      "end": "2026-10-06",
+      "deadline": "2026-10-06",
+      "when_text": "Sep 16 - Oct 06, 2026",
+      "location": "Databricks Singapore",
+      "online": false,
+      "url": "https://daisisg26.devpost.com/",
+      "organizer": "Databricks",
+      "prize": "",
+      "tags": [
+        "Education",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31113",
+      "title": "MLAI Hackathon 2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-09-18",
+      "end": "2026-10-16",
+      "deadline": "2026-10-16",
+      "when_text": "Sep 18 - Oct 16, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://mlai-hackathon.devpost.com/",
+      "organizer": "Mạng Lưới AI",
+      "prize": "",
+      "tags": [
+        "Databases",
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-30447",
+      "title": "Build With AI: Basics",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-09-22",
+      "end": "2026-10-26",
+      "deadline": "2026-10-26",
+      "when_text": "Sep 22 - Oct 26, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://learn-ai-basics.devpost.com/",
+      "organizer": "Devpost",
+      "prize": "$2,500",
+      "tags": [
+        "Machine Learning/AI",
+        "Beginner Friendly",
+        "Education"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31180",
+      "title": "AI Lodge Hackathon 2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-09-22",
+      "end": "2026-10-19",
+      "deadline": "2026-10-19",
+      "when_text": "Sep 22 - Oct 19, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://ai-lodge-hackathon-2026.devpost.com/",
+      "organizer": "SMU Business Intelligence & Analytics",
+      "prize": "",
+      "tags": [
+        "Beginner Friendly"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31477",
+      "title": "INDUX 5.0-2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-09-22",
+      "end": "2026-10-15",
+      "deadline": "2026-10-15",
+      "when_text": "Sep 22 - Oct 15, 2026",
+      "location": "Vikrant University , Gwalior",
+      "online": false,
+      "url": "https://indux-5-0-2026.devpost.com/",
+      "organizer": "vikrant university, gwalior",
+      "prize": "₹ 225,000",
+      "tags": [
+        "Cybersecurity",
+        "Design",
+        "Robotic Process Automation"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31024",
+      "title": "Meta VR Start Developer Competition 2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-09-24",
+      "end": "2026-11-18",
+      "deadline": "2026-11-18",
+      "when_text": "Sep 24 - Nov 18, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://start-developer-competition-26.devpost.com/",
+      "organizer": "Meta",
+      "prize": "$1,000,000",
+      "tags": [
+        "AR/VR",
+        "Machine Learning/AI",
+        "Web"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31453",
+      "title": "Hackyard Build 2026 | 24-Hour Hackathon at IIT Guwahati",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-09-25",
+      "end": "2026-10-10",
+      "deadline": "2026-10-10",
+      "when_text": "Sep 25 - Oct 10, 2026",
+      "location": "IIT Guwahati",
+      "online": false,
+      "url": "https://hackyardbuild2026.devpost.com/",
+      "organizer": "Hackyard Technologies Pvt limited",
+      "prize": "₹ 447,500",
+      "tags": [
+        "Beginner Friendly",
+        "Open Ended",
+        "Low/No Code"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31481",
+      "title": "Multimodal AI Hackathon 2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-09-29",
+      "end": "2026-10-14",
+      "deadline": "2026-10-14",
+      "when_text": "Sep 29 - Oct 14, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://multimodal-ai-hackathon-2026-7.devpost.com/",
+      "organizer": "Kamand Prompt, IIT Mandi",
+      "prize": "₹ 100,000",
+      "tags": [
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31400",
+      "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-09-29",
+      "end": "2026-11-02",
+      "deadline": "2026-11-02",
+      "when_text": "Sep 29 - Nov 02, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
+      "organizer": "Perfect Corp",
+      "prize": "$6,000",
+      "tags": [
+        "AR/VR",
+        "E-commerce/Retail",
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31548",
+      "title": "AIC Internal Competition -2026 (Agentic AI) ",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-09-30",
+      "end": "2026-10-12",
+      "deadline": "2026-10-12",
+      "when_text": "Sep 30 - Oct 12, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://aic-ic-2026.devpost.com/",
+      "organizer": "AI Community @ SBU",
+      "prize": "",
+      "tags": [
+        "Machine Learning/AI",
+        "Open Ended"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31054",
+      "title": "Qloo Agentic Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-09-30",
+      "end": "2026-10-30",
+      "deadline": "2026-10-30",
+      "when_text": "Sep 30 - Oct 30, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://qloo.devpost.com/",
+      "organizer": "Qloo",
+      "prize": "$25,000",
+      "tags": [
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31302",
+      "title": "PayPal AI Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-01",
+      "end": "2026-11-12",
+      "deadline": "2026-11-12",
+      "when_text": "Oct 01 - Nov 12, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://paypalaihackathon.devpost.com/",
+      "organizer": "PayPal",
+      "prize": "$67,500",
+      "tags": [
+        "Low/No Code",
+        "Machine Learning/AI",
+        "Web"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-30350",
+      "title": "Hack Apertus",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-01",
+      "end": "2026-10-16",
+      "deadline": "2026-10-16",
+      "when_text": "Oct 01 - 16, 2026",
+      "location": "Grand Finals 2027 ",
+      "online": false,
+      "url": "https://hackapertus.devpost.com/",
+      "organizer": "aiLights Association",
+      "prize": "€10,680",
+      "tags": [
+        "Education",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-30858",
+      "title": "ForgeHacks Online 2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-01",
+      "end": "2026-10-10",
+      "deadline": "2026-10-10",
+      "when_text": "Oct 01 - 10, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://forgehacks-2026.devpost.com/",
+      "organizer": "ForgeHacks",
+      "prize": "$1,218,635",
+      "tags": [
+        "Beginner Friendly",
+        "Lifehacks",
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31239",
+      "title": "ImpactHack 2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-01",
+      "end": "2026-10-08",
+      "deadline": "2026-10-08",
+      "when_text": "Oct 01 - 08, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://impacthack26.devpost.com/",
+      "organizer": "GIS Engineering Club",
+      "prize": "",
+      "tags": [
+        "Beginner Friendly",
+        "Education",
+        "Social Good"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31562",
+      "title": "Affinda AI Innovation Challenge",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-05",
+      "end": "2026-10-08",
+      "deadline": "2026-10-08",
+      "when_text": "Oct 05 - 08, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://affinda-challenge.devpost.com/",
+      "organizer": "Enactus Melbourne",
+      "prize": "$1,000",
+      "tags": [
+        "Beginner Friendly"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-29114",
+      "title": "IEEE ClimateChain Global Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-05",
+      "end": "2026-10-25",
+      "deadline": "2026-10-25",
+      "when_text": "Oct 05 - 25, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://ieee-climatechain-hack.devpost.com/",
+      "organizer": "IEEE Turkey",
+      "prize": "$3,000",
+      "tags": [
+        "Blockchain",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31626",
+      "title": "Hackathon Agéntico SoftwareChido 2026B",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-05",
+      "end": "2026-11-25",
+      "deadline": "2026-11-25",
+      "when_text": "Oct 05 - Nov 25, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://hackathon-agentico-2026b.devpost.com/",
+      "organizer": "ITESO",
+      "prize": "",
+      "tags": [
+        "Education",
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31503",
+      "title": "Life After Code",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-05",
+      "end": "2026-10-27",
+      "deadline": "2026-10-27",
+      "when_text": "Oct 05 - 27, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://gitlab-transcend.devpost.com/",
+      "organizer": "GitLab",
+      "prize": "$45,000",
+      "tags": [
+        "DevOps",
+        "Machine Learning/AI",
+        "Productivity"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-28259",
+      "title": "United Hackathons V1",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-06",
+      "end": "2026-10-12",
+      "deadline": "2026-10-12",
+      "when_text": "Oct 06 - 12, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://devonomicsv1.devpost.com/",
+      "organizer": "United Hackathons",
+      "prize": "",
+      "tags": [
+        "Machine Learning/AI",
+        "Open Ended",
+        "Social Good"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31275",
+      "title": "Rutgers Health Hack 2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-09",
+      "end": "2026-10-11",
+      "deadline": "2026-10-11",
+      "when_text": "Oct 09 - 11, 2026",
+      "location": "NJ HELIX Tower 1",
+      "online": false,
+      "url": "https://rutgers-health-hack-2026.devpost.com/",
+      "organizer": "Robert Wood Johnson Medical School",
+      "prize": "$10,000",
+      "tags": [
+        "Health"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31473",
+      "title": "#SFTechWeek - Decision-Grade AI @ Stanford ⚡️ A Buildathon on LLM Trust",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-10",
+      "end": "2026-10-10",
+      "deadline": "2026-10-10",
+      "when_text": "Oct 10, 2026",
+      "location": "Industrious Palo Alto Page Mil",
+      "online": false,
+      "url": "https://ai-trust.devpost.com/",
+      "organizer": "ezio",
+      "prize": "",
+      "tags": [
+        "Machine Learning/AI",
+        "Open Ended",
+        "Social Good"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31482",
+      "title": "Build Multiplayer Data Science Agents · PyMC Labs",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-10",
+      "end": "2026-10-10",
+      "deadline": "2026-10-10",
+      "when_text": "Oct 10, 2026",
+      "location": "New York, NY, USA",
+      "online": false,
+      "url": "https://daimon-hackathon.devpost.com/",
+      "organizer": "PyMC Labs",
+      "prize": "",
+      "tags": [
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31544",
+      "title": "QMUL AI Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-10",
+      "end": "2026-10-10",
+      "deadline": "2026-10-10",
+      "when_text": "Oct 10, 2026",
+      "location": "QMUL - Bancroft Building 1.13",
+      "online": false,
+      "url": "https://qmul-ai-hackathon.devpost.com/",
+      "organizer": "Queen Mary AI Soc, Queen Mary CS Soc",
+      "prize": "£0",
+      "tags": [
+        "Beginner Friendly",
+        "Open Ended"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31475",
+      "title": "Agentic Enterprise AI Hackathon — Box + AWS",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-16",
+      "end": "2026-10-17",
+      "deadline": "2026-10-17",
+      "when_text": "Oct 16 - 17, 2026",
+      "location": "Amazon Day 1 Building",
+      "online": false,
+      "url": "https://agentic-ai-hackathon-box-aws.devpost.com/",
+      "organizer": "box",
+      "prize": "",
+      "tags": [
+        "DevOps",
+        "Enterprise",
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31172",
+      "title": "Hack Like W@CC 2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "deadline": "2026-10-18",
+      "when_text": "Oct 17 - 18, 2026",
+      "location": "Georgia Tech – Klaus Atrium, Klaus 1116",
+      "online": false,
+      "url": "https://hack-like-wacc-26.devpost.com/",
+      "organizer": "Women at College of Computing @ GT",
+      "prize": "",
+      "tags": [
+        "Health",
+        "Machine Learning/AI",
+        "Open Ended"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31580",
+      "title": "YUNet AIgnite 2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-01",
+      "end": "2026-11-05",
+      "deadline": "2026-11-05",
+      "when_text": "Nov 01 - 05, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://yunet-aignite26.devpost.com/",
+      "organizer": "Youth Upskill Network - YUNet",
+      "prize": "",
+      "tags": [
+        "Education",
+        "Low/No Code",
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31480",
+      "title": "AI Agents for Founders Challenge — HETIC 2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-04",
+      "end": "2026-12-18",
+      "deadline": "2026-12-18",
+      "when_text": "Nov 04 - Dec 18, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://ai-agents-founders-hetic-26.devpost.com/",
+      "organizer": "HETIC",
+      "prize": "€997",
+      "tags": [
+        "Low/No Code",
+        "Machine Learning/AI",
+        "Productivity"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-30516",
+      "title": "Since AI 2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-06",
+      "end": "2026-11-08",
+      "deadline": "2026-11-08",
+      "when_text": "Nov 06 - 08, 2026",
+      "location": "Kupittaa Campus, Turku",
+      "online": false,
+      "url": "https://sinceai2026.devpost.com/",
+      "organizer": "Since AI ry",
+      "prize": "€50,000",
+      "tags": [
+        "Machine Learning/AI",
+        "Open Ended",
+        "Enterprise"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-30880",
+      "title": "DevFest Münster 2026: Agentic AI Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "deadline": "2026-11-21",
+      "when_text": "Nov 21, 2026",
+      "location": "Volkshochschule",
+      "online": false,
+      "url": "https://devfest-ai-hackathon.devpost.com/",
+      "organizer": "GDG Münster",
+      "prize": "",
+      "tags": [
+        "Beginner Friendly",
+        "Low/No Code",
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    }
+  ]
 }
