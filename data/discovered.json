@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T13:18:27.614Z",
-  "checked": "2026-10-07T13:18:27.614Z",
+  "updated": "2026-10-08T13:24:52.945Z",
+  "checked": "2026-10-08T13:24:52.945Z",
   "sources": [
     {
       "name": "Devpost",
@@ -301,6 +301,27 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-31484",
+      "title": "2026-2027 Fall ESE Senior Design",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-09-22",
+      "end": "2026-12-07",
+      "deadline": "2026-12-07",
+      "when_text": "Sep 22 - Dec 07, 2026",
+      "location": "Amy Gutman Hall",
+      "online": false,
+      "url": "https://ese4500f26.devpost.com/",
+      "organizer": "university of pennsylvania",
+      "prize": "",
+      "tags": [
+        "AR/VR",
+        "Fintech",
+        "Quantum"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-31024",
       "title": "Meta VR Start Developer Competition 2026",
       "type": "hackathon",
@@ -497,72 +518,11 @@
       "online": true,
       "url": "https://forgehacks-2026.devpost.com/",
       "organizer": "ForgeHacks",
-      "prize": "$1,323,825",
+      "prize": "$1,382,700",
       "tags": [
         "Beginner Friendly",
         "Lifehacks",
         "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31239",
-      "title": "ImpactHack 2026",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-01",
-      "end": "2026-10-08",
-      "deadline": "2026-10-08",
-      "when_text": "Oct 01 - 08, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://impacthack26.devpost.com/",
-      "organizer": "GIS Engineering Club",
-      "prize": "",
-      "tags": [
-        "Beginner Friendly",
-        "Education",
-        "Social Good"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-30548",
-      "title": "HackFW: MADE Challenge",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-01",
-      "end": "2026-10-30",
-      "deadline": "2026-10-30",
-      "when_text": "Oct 01 - 30, 2026",
-      "location": "Fort Worth",
-      "online": false,
-      "url": "https://hackfw.devpost.com/",
-      "organizer": "Fort Worth DAO",
-      "prize": "$1,900",
-      "tags": [
-        "IoT",
-        "Machine Learning/AI",
-        "Robotic Process Automation"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31562",
-      "title": "Affinda AI Innovation Challenge",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-05",
-      "end": "2026-10-08",
-      "deadline": "2026-10-08",
-      "when_text": "Oct 05 - 08, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://affinda-challenge.devpost.com/",
-      "organizer": "Enactus Melbourne",
-      "prize": "$1,000",
-      "tags": [
-        "Beginner Friendly"
       ],
       "source": "devpost"
     },
@@ -629,6 +589,26 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-31611",
+      "title": "Reality Check(Meet-up)",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-05",
+      "end": "2026-11-18",
+      "deadline": "2026-11-18",
+      "when_text": "Oct 05 - Nov 18, 2026",
+      "location": "Cities: Delhi, Pune Bangalore",
+      "online": false,
+      "url": "https://reality-check-meet-up.devpost.com/",
+      "organizer": "noclue",
+      "prize": "",
+      "tags": [
+        "Enterprise",
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-31610",
       "title": "All you can do with AI ",
       "type": "hackathon",
@@ -646,6 +626,26 @@
         "Blockchain",
         "Databases",
         "Serverless"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-30492",
+      "title": "Prompt2Product: MLH Hack Day @ AITR",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-08",
+      "end": "2026-10-09",
+      "deadline": "2026-10-09",
+      "when_text": "Oct 08 - 09, 2026",
+      "location": "AITR Indore",
+      "online": false,
+      "url": "https://prompt2product.devpost.com/",
+      "organizer": "Acropolis Institute of Technology and RC",
+      "prize": "₹ 0",
+      "tags": [
+        "DevOps",
+        "Education"
       ],
       "source": "devpost"
     }
