@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-10T12:27:39.187Z",
-  "checked": "2026-10-10T12:27:39.187Z",
+  "updated": "2026-10-11T12:45:22.131Z",
+  "checked": "2026-10-11T12:45:22.131Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 34
+      "count": 32
     }
   ],
   "events": [
@@ -182,9 +182,9 @@
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-09-22",
-      "end": "2026-10-19",
-      "deadline": "2026-10-19",
-      "when_text": "Sep 22 - Oct 19, 2026",
+      "end": "2026-10-18",
+      "deadline": "2026-10-18",
+      "when_text": "Sep 22 - Oct 18, 2026",
       "location": "Online",
       "online": true,
       "url": "https://ai-lodge-hackathon-2026.devpost.com/",
@@ -192,6 +192,27 @@
       "prize": "",
       "tags": [
         "Beginner Friendly"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31477",
+      "title": "INDUX 5.0-2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-09-22",
+      "end": "2026-10-15",
+      "deadline": "2026-10-15",
+      "when_text": "Sep 22 - Oct 15, 2026",
+      "location": "Vikrant University , Gwalior",
+      "online": false,
+      "url": "https://indux-5-0-2026.devpost.com/",
+      "organizer": "vikrant university, gwalior",
+      "prize": "₹ 225,000",
+      "tags": [
+        "Cybersecurity",
+        "Design",
+        "Robotic Process Automation"
       ],
       "source": "devpost"
     },
@@ -213,27 +234,6 @@
         "AR/VR",
         "Machine Learning/AI",
         "Web"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31453",
-      "title": "Hackyard Build 2026 | 24-Hour Hackathon at IIT Guwahati",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-09-25",
-      "end": "2026-10-10",
-      "deadline": "2026-10-10",
-      "when_text": "Sep 25 - Oct 10, 2026",
-      "location": "IIT Guwahati",
-      "online": false,
-      "url": "https://hackyardbuild2026.devpost.com/",
-      "organizer": "Hackyard Technologies Pvt limited",
-      "prize": "₹ 447,500",
-      "tags": [
-        "Beginner Friendly",
-        "Open Ended",
-        "Low/No Code"
       ],
       "source": "devpost"
     },
@@ -359,27 +359,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-30858",
-      "title": "ForgeHacks Online 2026",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-01",
-      "end": "2026-10-10",
-      "deadline": "2026-10-10",
-      "when_text": "Oct 01 - 10, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://forgehacks-2026.devpost.com/",
-      "organizer": "ForgeHacks",
-      "prize": "$1,382,700",
-      "tags": [
-        "Beginner Friendly",
-        "Lifehacks",
-        "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-30350",
       "title": "Hack Apertus",
       "type": "hackathon",
@@ -464,22 +443,23 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-29915",
-      "title": "Caribbean AI Summit Hackathon",
+      "id": "devpost-30491",
+      "title": "Banana Hacks",
       "type": "hackathon",
       "platform": "Devpost",
-      "start": "2026-10-08",
-      "end": "2026-10-10",
-      "deadline": "2026-10-10",
-      "when_text": "Oct 08 - 10, 2026",
-      "location": "Puerto Rico Convention Center",
-      "online": false,
-      "url": "https://caribbean-ai-summit-hackathon.devpost.com/",
-      "organizer": "Puerto Rico AI Community",
-      "prize": "$10,500",
+      "start": "2026-10-09",
+      "end": "2026-10-12",
+      "deadline": "2026-10-12",
+      "when_text": "Oct 09 - 12, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://banana-hacks-1111.devpost.com/",
+      "organizer": "n/a",
+      "prize": "$500",
       "tags": [
-        "Health",
-        "Social Good"
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Web"
       ],
       "source": "devpost"
     },
@@ -503,81 +483,44 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31544",
-      "title": "QMUL AI Hackathon",
+      "id": "devpost-31675",
+      "title": "BoxLang-AI-ANIA-2026",
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-10-10",
-      "end": "2026-10-10",
-      "deadline": "2026-10-10",
-      "when_text": "Oct 10, 2026",
-      "location": "QMUL - Bancroft Building 1.13",
+      "end": "2026-10-11",
+      "deadline": "2026-10-11",
+      "when_text": "Oct 10 - 11, 2026",
+      "location": "ANIA - El Salvador",
       "online": false,
-      "url": "https://qmul-ai-hackathon.devpost.com/",
-      "organizer": "Queen Mary AI Soc, Queen Mary CS Soc",
-      "prize": "£0",
-      "tags": [
-        "Beginner Friendly",
-        "Open Ended"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31473",
-      "title": "#SFTechWeek - Decision-Grade AI @ Stanford ⚡️ A Buildathon on LLM Trust",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-10",
-      "end": "2026-10-10",
-      "deadline": "2026-10-10",
-      "when_text": "Oct 10, 2026",
-      "location": "Industrious Palo Alto Page Mil",
-      "online": false,
-      "url": "https://ai-trust.devpost.com/",
-      "organizer": "ezio",
+      "url": "https://boxlang-ai-ania-2026.devpost.com/",
+      "organizer": "BoxLang",
       "prize": "",
       "tags": [
         "Machine Learning/AI",
-        "Open Ended",
-        "Social Good"
+        "Productivity",
+        "Web"
       ],
       "source": "devpost"
     },
     {
-      "id": "devpost-31482",
-      "title": "Build Multiplayer Data Science Agents · PyMC Labs",
+      "id": "devpost-31417",
+      "title": "EvoHacks2026",
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-10-10",
-      "end": "2026-10-10",
-      "deadline": "2026-10-10",
-      "when_text": "Oct 10, 2026",
-      "location": "New York, NY, USA",
-      "online": false,
-      "url": "https://daimon-hackathon.devpost.com/",
-      "organizer": "PyMC Labs",
-      "prize": "",
-      "tags": [
-        "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31616",
-      "title": "Zoftware AgentHack",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-11",
       "end": "2026-10-11",
       "deadline": "2026-10-11",
-      "when_text": "Oct 11, 2026",
-      "location": "Spring House Workspaces SHGU001",
-      "online": false,
-      "url": "https://zoftware-agenthack.devpost.com/",
-      "organizer": "zoftwarehub",
-      "prize": "$500",
+      "when_text": "Oct 10 - 11, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://evohackathon2026.devpost.com/",
+      "organizer": "EvoHacks",
+      "prize": "",
       "tags": [
-        "Enterprise"
+        "Beginner Friendly",
+        "Low/No Code",
+        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
@@ -641,6 +584,25 @@
         "Health",
         "Machine Learning/AI",
         "Open Ended"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31616",
+      "title": "Zoftware AgentHack",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-17",
+      "end": "2026-10-17",
+      "deadline": "2026-10-17",
+      "when_text": "Oct 17, 2026",
+      "location": "Spring House Workspaces SHGU001",
+      "online": false,
+      "url": "https://zoftware-agenthack.devpost.com/",
+      "organizer": "zoftwarehub",
+      "prize": "$500",
+      "tags": [
+        "Enterprise"
       ],
       "source": "devpost"
     },
