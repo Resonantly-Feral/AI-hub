@@ -1,14 +1,35 @@
 {
-  "updated": "2026-10-11T12:45:22.131Z",
-  "checked": "2026-10-11T12:45:22.131Z",
+  "updated": "2026-10-12T15:17:51.373Z",
+  "checked": "2026-10-12T15:17:51.373Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 32
+      "count": 30
     }
   ],
   "events": [
+    {
+      "id": "devpost-30500",
+      "title": "DSH Hacks V2 ($100k+ in prizes!)",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-06-24",
+      "end": "2026-11-15",
+      "deadline": "2026-11-15",
+      "when_text": "Jun 24 - Nov 15, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://dsh-hacks-v2.devpost.com/",
+      "organizer": "STEMise",
+      "prize": "",
+      "tags": [
+        "Beginner Friendly",
+        "Low/No Code",
+        "Open Ended"
+      ],
+      "source": "devpost"
+    },
     {
       "id": "devpost-29411",
       "title": "Galuxium Nexus V2",
@@ -111,6 +132,27 @@
         "Machine Learning/AI",
         "Open Ended",
         "Productivity"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31116",
+      "title": "Next Gen Hackathon 2026 -Bengaluru",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-09-01",
+      "end": "2026-10-23",
+      "deadline": "2026-10-23",
+      "when_text": "Sep 01 - Oct 23, 2026",
+      "location": "Tripura Vasini Palace Grounds, Bengaluru",
+      "online": false,
+      "url": "https://next-gen-hackathon.devpost.com/",
+      "organizer": "RAAIF",
+      "prize": "₹ 50,000",
+      "tags": [
+        "AR/VR",
+        "IoT",
+        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
@@ -299,26 +341,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31548",
-      "title": "AIC Internal Competition -2026 (Agentic AI) ",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-09-30",
-      "end": "2026-10-12",
-      "deadline": "2026-10-12",
-      "when_text": "Sep 30 - Oct 12, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://aic-ic-2026.devpost.com/",
-      "organizer": "AI Community @ SBU",
-      "prize": "",
-      "tags": [
-        "Machine Learning/AI",
-        "Open Ended"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31054",
       "title": "Qloo Agentic Hackathon",
       "type": "hackathon",
@@ -443,84 +465,22 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-30491",
-      "title": "Banana Hacks",
+      "id": "devpost-31617",
+      "title": "IEEE Hack For Humanity",
       "type": "hackathon",
       "platform": "Devpost",
-      "start": "2026-10-09",
-      "end": "2026-10-12",
-      "deadline": "2026-10-12",
-      "when_text": "Oct 09 - 12, 2026",
+      "start": "2026-10-11",
+      "end": "2026-10-18",
+      "deadline": "2026-10-18",
+      "when_text": "Oct 11 - 18, 2026",
       "location": "Online",
       "online": true,
-      "url": "https://banana-hacks-1111.devpost.com/",
-      "organizer": "n/a",
-      "prize": "$500",
-      "tags": [
-        "Beginner Friendly",
-        "Machine Learning/AI",
-        "Web"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31275",
-      "title": "Rutgers Health Hack 2026",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-09",
-      "end": "2026-10-11",
-      "deadline": "2026-10-11",
-      "when_text": "Oct 09 - 11, 2026",
-      "location": "NJ HELIX Tower 1",
-      "online": false,
-      "url": "https://rutgers-health-hack-2026.devpost.com/",
-      "organizer": "Robert Wood Johnson Medical School",
-      "prize": "$10,000",
-      "tags": [
-        "Health"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31675",
-      "title": "BoxLang-AI-ANIA-2026",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-10",
-      "end": "2026-10-11",
-      "deadline": "2026-10-11",
-      "when_text": "Oct 10 - 11, 2026",
-      "location": "ANIA - El Salvador",
-      "online": false,
-      "url": "https://boxlang-ai-ania-2026.devpost.com/",
-      "organizer": "BoxLang",
+      "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
+      "organizer": "IEEE Charlotte Section",
       "prize": "",
       "tags": [
         "Machine Learning/AI",
-        "Productivity",
-        "Web"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31417",
-      "title": "EvoHacks2026",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-10",
-      "end": "2026-10-11",
-      "deadline": "2026-10-11",
-      "when_text": "Oct 10 - 11, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://evohackathon2026.devpost.com/",
-      "organizer": "EvoHacks",
-      "prize": "",
-      "tags": [
-        "Beginner Friendly",
-        "Low/No Code",
-        "Machine Learning/AI"
+        "Social Good"
       ],
       "source": "devpost"
     },
