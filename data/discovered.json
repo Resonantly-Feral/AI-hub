@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-12T15:17:51.373Z",
-  "checked": "2026-10-12T15:17:51.373Z",
+  "updated": "2026-10-13T14:07:29.694Z",
+  "checked": "2026-10-13T14:07:29.694Z",
   "sources": [
     {
       "name": "Devpost",
@@ -444,27 +444,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31610",
-      "title": "All you can do with AI ",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-07",
-      "end": "2026-10-12",
-      "deadline": "2026-10-12",
-      "when_text": "Oct 07 - 12, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://all-you-can-do-with-ai.devpost.com/",
-      "organizer": "Self",
-      "prize": "",
-      "tags": [
-        "Blockchain",
-        "Databases",
-        "Serverless"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31617",
       "title": "IEEE Hack For Humanity",
       "type": "hackathon",
@@ -481,6 +460,27 @@
       "tags": [
         "Machine Learning/AI",
         "Social Good"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31698",
+      "title": "Child Safety in AI",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-12",
+      "end": "2026-10-14",
+      "deadline": "2026-10-14",
+      "when_text": "Oct 12 - 14, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://child-safety-in-ai.devpost.com/",
+      "organizer": "STEMSisterz",
+      "prize": "",
+      "tags": [
+        "Machine Learning/AI",
+        "Beginner Friendly",
+        "Low/No Code"
       ],
       "source": "devpost"
     },
