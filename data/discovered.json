@@ -1,35 +1,14 @@
 {
-  "updated": "2026-10-13T14:07:29.694Z",
-  "checked": "2026-10-13T14:07:29.694Z",
+  "updated": "2026-10-14T11:48:01.975Z",
+  "checked": "2026-10-14T11:48:01.975Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 30
+      "count": 33
     }
   ],
   "events": [
-    {
-      "id": "devpost-30500",
-      "title": "DSH Hacks V2 ($100k+ in prizes!)",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-06-24",
-      "end": "2026-11-15",
-      "deadline": "2026-11-15",
-      "when_text": "Jun 24 - Nov 15, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://dsh-hacks-v2.devpost.com/",
-      "organizer": "STEMise",
-      "prize": "",
-      "tags": [
-        "Beginner Friendly",
-        "Low/No Code",
-        "Open Ended"
-      ],
-      "source": "devpost"
-    },
     {
       "id": "devpost-29411",
       "title": "Galuxium Nexus V2",
@@ -69,6 +48,27 @@
         "Education",
         "Machine Learning/AI",
         "Web"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-30764",
+      "title": "Syntax Summit",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-07-18",
+      "end": "2027-01-14",
+      "deadline": "2027-01-14",
+      "when_text": "Jul 18, 2026 - Jan 14, 2027",
+      "location": "Online",
+      "online": true,
+      "url": "https://syntax-summit.devpost.com/",
+      "organizer": "Student Organization",
+      "prize": "",
+      "tags": [
+        "DevOps",
+        "Machine Learning/AI",
+        "Robotic Process Automation"
       ],
       "source": "devpost"
     },
@@ -280,27 +280,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31103",
-      "title": "WarriorHacks 2.0",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-09-28",
-      "end": "2026-10-14",
-      "deadline": "2026-10-14",
-      "when_text": "Sep 28 - Oct 14, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://warriorhacks-2-0.devpost.com/",
-      "organizer": "Westwood Computer Science Club",
-      "prize": "",
-      "tags": [
-        "Beginner Friendly",
-        "Machine Learning/AI",
-        "Open Ended"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31481",
       "title": "Multimodal AI Hackathon 2026",
       "type": "hackathon",
@@ -485,6 +464,66 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-31735",
+      "title": "AI Build India",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-14",
+      "end": "2026-10-31",
+      "deadline": "2026-10-31",
+      "when_text": "Oct 14 - 31, 2026",
+      "location": "jaipur",
+      "online": false,
+      "url": "https://sphinx-26.devpost.com/",
+      "organizer": "Hacker's Unity",
+      "prize": "",
+      "tags": [
+        "Machine Learning/AI",
+        "Open Ended"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31736",
+      "title": "Graph Hacks",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-14",
+      "end": "2026-10-31",
+      "deadline": "2026-10-31",
+      "when_text": "Oct 14 - 31, 2026",
+      "location": "Online, from anywhere",
+      "online": true,
+      "url": "https://graph-hacks.devpost.com/",
+      "organizer": "Hacker's Unity",
+      "prize": "",
+      "tags": [
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31728",
+      "title": "MTC x Grammarly: Agents in Action",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-16",
+      "end": "2026-10-16",
+      "deadline": "2026-10-16",
+      "when_text": "Oct 16, 2026",
+      "location": "SoCo",
+      "online": false,
+      "url": "https://mtc-x-grammarly.devpost.com/",
+      "organizer": "Muslim Tech Collaborative",
+      "prize": "",
+      "tags": [
+        "Communication",
+        "Machine Learning/AI",
+        "Productivity"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-31475",
       "title": "Agentic Enterprise AI Hackathon — Box + AWS",
       "type": "hackathon",
@@ -563,6 +602,27 @@
       "prize": "$500",
       "tags": [
         "Enterprise"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31732",
+      "title": "Build The Next Big Thing with AI - Devmarketplace",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-19",
+      "end": "2026-10-22",
+      "deadline": "2026-10-22",
+      "when_text": "Oct 19 - 22, 2026",
+      "location": "NED University",
+      "online": false,
+      "url": "https://build-next-big-thing-with-ai.devpost.com/",
+      "organizer": "devmarketplace",
+      "prize": "₹ 100,000",
+      "tags": [
+        "Databases",
+        "Machine Learning/AI",
+        "Web"
       ],
       "source": "devpost"
     },
