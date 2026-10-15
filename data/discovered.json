@@ -1,14 +1,35 @@
 {
-  "updated": "2026-10-14T11:48:01.975Z",
-  "checked": "2026-10-14T11:48:01.975Z",
+  "updated": "2026-10-15T11:24:25.745Z",
+  "checked": "2026-10-15T11:24:25.745Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 33
+      "count": 32
     }
   ],
   "events": [
+    {
+      "id": "devpost-30500",
+      "title": "DSH Hacks V2 ($100k+ in prizes!)",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-06-24",
+      "end": "2026-11-15",
+      "deadline": "2026-11-15",
+      "when_text": "Jun 24 - Nov 15, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://dsh-hacks-v2.devpost.com/",
+      "organizer": "STEMise",
+      "prize": "",
+      "tags": [
+        "Beginner Friendly",
+        "Low/No Code",
+        "Open Ended"
+      ],
+      "source": "devpost"
+    },
     {
       "id": "devpost-29411",
       "title": "Galuxium Nexus V2",
@@ -69,6 +90,27 @@
         "DevOps",
         "Machine Learning/AI",
         "Robotic Process Automation"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-30781",
+      "title": "UnivaBio ($40,000 in prizes) ",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-08-07",
+      "end": "2026-10-20",
+      "deadline": "2026-10-20",
+      "when_text": "Aug 07 - Oct 20, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://univabio.devpost.com/",
+      "organizer": "BioCataalysis",
+      "prize": "",
+      "tags": [
+        "Beginner Friendly",
+        "Health",
+        "Social Good"
       ],
       "source": "devpost"
     },
@@ -238,27 +280,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31477",
-      "title": "INDUX 5.0-2026",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-09-22",
-      "end": "2026-10-15",
-      "deadline": "2026-10-15",
-      "when_text": "Sep 22 - Oct 15, 2026",
-      "location": "Vikrant University , Gwalior",
-      "online": false,
-      "url": "https://indux-5-0-2026.devpost.com/",
-      "organizer": "vikrant university, gwalior",
-      "prize": "₹ 225,000",
-      "tags": [
-        "Cybersecurity",
-        "Design",
-        "Robotic Process Automation"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31024",
       "title": "Meta VR Start Developer Competition 2026",
       "type": "hackathon",
@@ -276,25 +297,6 @@
         "AR/VR",
         "Machine Learning/AI",
         "Web"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31481",
-      "title": "Multimodal AI Hackathon 2026",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-09-29",
-      "end": "2026-10-14",
-      "deadline": "2026-10-14",
-      "when_text": "Sep 29 - Oct 14, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://multimodal-ai-hackathon-2026-7.devpost.com/",
-      "organizer": "Kamand Prompt, IIT Mandi",
-      "prize": "₹ 100,000",
-      "tags": [
-        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
@@ -439,27 +441,6 @@
       "tags": [
         "Machine Learning/AI",
         "Social Good"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31698",
-      "title": "Child Safety in AI",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-12",
-      "end": "2026-10-14",
-      "deadline": "2026-10-14",
-      "when_text": "Oct 12 - 14, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://child-safety-in-ai.devpost.com/",
-      "organizer": "STEMSisterz",
-      "prize": "",
-      "tags": [
-        "Machine Learning/AI",
-        "Beginner Friendly",
-        "Low/No Code"
       ],
       "source": "devpost"
     },
