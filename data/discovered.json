@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-15T11:24:25.745Z",
-  "checked": "2026-10-15T11:24:25.745Z",
+  "updated": "2026-10-16T11:18:49.626Z",
+  "checked": "2026-10-16T11:18:49.626Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 32
+      "count": 34
     }
   ],
   "events": [
@@ -90,27 +90,6 @@
         "DevOps",
         "Machine Learning/AI",
         "Robotic Process Automation"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-30781",
-      "title": "UnivaBio ($40,000 in prizes) ",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-08-07",
-      "end": "2026-10-20",
-      "deadline": "2026-10-20",
-      "when_text": "Aug 07 - Oct 20, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://univabio.devpost.com/",
-      "organizer": "BioCataalysis",
-      "prize": "",
-      "tags": [
-        "Beginner Friendly",
-        "Health",
-        "Social Good"
       ],
       "source": "devpost"
     },
@@ -280,6 +259,27 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-31477",
+      "title": "INDUX 5.0-2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-09-22",
+      "end": "2026-10-20",
+      "deadline": "2026-10-20",
+      "when_text": "Sep 22 - Oct 20, 2026",
+      "location": "Vikrant University , Gwalior",
+      "online": false,
+      "url": "https://indux-5-0-2026.devpost.com/",
+      "organizer": "vikrant university, gwalior",
+      "prize": "₹ 225,000",
+      "tags": [
+        "Cybersecurity",
+        "Design",
+        "Robotic Process Automation"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-31024",
       "title": "Meta VR Start Developer Competition 2026",
       "type": "hackathon",
@@ -362,27 +362,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-30350",
-      "title": "Hack Apertus",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-01",
-      "end": "2026-10-16",
-      "deadline": "2026-10-16",
-      "when_text": "Oct 01 - 16, 2026",
-      "location": "Grand Finals 2027 ",
-      "online": false,
-      "url": "https://hackapertus.devpost.com/",
-      "organizer": "aiLights Association",
-      "prize": "€10,680",
-      "tags": [
-        "Education",
-        "Machine Learning/AI",
-        "Social Good"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-29114",
       "title": "IEEE ClimateChain Global Hackathon",
       "type": "hackathon",
@@ -430,9 +409,9 @@
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-10-11",
-      "end": "2026-10-18",
-      "deadline": "2026-10-18",
-      "when_text": "Oct 11 - 18, 2026",
+      "end": "2026-10-21",
+      "deadline": "2026-10-21",
+      "when_text": "Oct 11 - 21, 2026",
       "location": "Online",
       "online": true,
       "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
@@ -484,23 +463,23 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31728",
-      "title": "MTC x Grammarly: Agents in Action",
+      "id": "devpost-31659",
+      "title": "Learn AR with SPECS",
       "type": "hackathon",
       "platform": "Devpost",
-      "start": "2026-10-16",
-      "end": "2026-10-16",
-      "deadline": "2026-10-16",
-      "when_text": "Oct 16, 2026",
-      "location": "SoCo",
-      "online": false,
-      "url": "https://mtc-x-grammarly.devpost.com/",
-      "organizer": "Muslim Tech Collaborative",
-      "prize": "",
+      "start": "2026-10-15",
+      "end": "2026-11-09",
+      "deadline": "2026-11-09",
+      "when_text": "Oct 15 - Nov 09, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://learn-specs.devpost.com/",
+      "organizer": "Devpost",
+      "prize": "$2,500",
       "tags": [
-        "Communication",
+        "AR/VR",
         "Machine Learning/AI",
-        "Productivity"
+        "Design"
       ],
       "source": "devpost"
     },
@@ -522,6 +501,27 @@
         "DevOps",
         "Enterprise",
         "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31728",
+      "title": "MTC x Grammarly: Agents in Action",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-16",
+      "end": "2026-10-16",
+      "deadline": "2026-10-16",
+      "when_text": "Oct 16, 2026",
+      "location": "SoCo",
+      "online": false,
+      "url": "https://mtc-x-grammarly.devpost.com/",
+      "organizer": "Muslim Tech Collaborative",
+      "prize": "",
+      "tags": [
+        "Communication",
+        "Machine Learning/AI",
+        "Productivity"
       ],
       "source": "devpost"
     },
@@ -587,6 +587,27 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-31344",
+      "title": "IKU Womxn in STEM Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "deadline": "2026-10-18",
+      "when_text": "Oct 17 - 18, 2026",
+      "location": "King's College London - Bush House",
+      "online": false,
+      "url": "https://iku-womxn-in-stem-hackathon.devpost.com/",
+      "organizer": "IKU Womxn in STEM",
+      "prize": "£0",
+      "tags": [
+        "Education",
+        "IoT",
+        "Web"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-31732",
       "title": "Build The Next Big Thing with AI - Devmarketplace",
       "type": "hackathon",
@@ -604,6 +625,25 @@
         "Databases",
         "Machine Learning/AI",
         "Web"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31760",
+      "title": "Mergetober",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "deadline": "2026-11-01",
+      "when_text": "Oct 31 - Nov 01, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://mergetober.devpost.com/",
+      "organizer": "Hacker's Unity",
+      "prize": "",
+      "tags": [
+        "Open Ended"
       ],
       "source": "devpost"
     },
