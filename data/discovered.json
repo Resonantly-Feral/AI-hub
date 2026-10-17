@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T11:18:49.626Z",
-  "checked": "2026-10-16T11:18:49.626Z",
+  "updated": "2026-10-17T10:39:28.995Z",
+  "checked": "2026-10-17T10:39:28.996Z",
   "sources": [
     {
       "name": "Devpost",
@@ -9,27 +9,6 @@
     }
   ],
   "events": [
-    {
-      "id": "devpost-30500",
-      "title": "DSH Hacks V2 ($100k+ in prizes!)",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-06-24",
-      "end": "2026-11-15",
-      "deadline": "2026-11-15",
-      "when_text": "Jun 24 - Nov 15, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://dsh-hacks-v2.devpost.com/",
-      "organizer": "STEMise",
-      "prize": "",
-      "tags": [
-        "Beginner Friendly",
-        "Low/No Code",
-        "Open Ended"
-      ],
-      "source": "devpost"
-    },
     {
       "id": "devpost-29411",
       "title": "Galuxium Nexus V2",
@@ -69,27 +48,6 @@
         "Education",
         "Machine Learning/AI",
         "Web"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-30764",
-      "title": "Syntax Summit",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-07-18",
-      "end": "2027-01-14",
-      "deadline": "2027-01-14",
-      "when_text": "Jul 18, 2026 - Jan 14, 2027",
-      "location": "Online",
-      "online": true,
-      "url": "https://syntax-summit.devpost.com/",
-      "organizer": "Student Organization",
-      "prize": "",
-      "tags": [
-        "DevOps",
-        "Machine Learning/AI",
-        "Robotic Process Automation"
       ],
       "source": "devpost"
     },
@@ -169,7 +127,7 @@
       "online": false,
       "url": "https://next-gen-hackathon.devpost.com/",
       "organizer": "RAAIF",
-      "prize": "₹ 50,000",
+      "prize": "₹ 40,000",
       "tags": [
         "AR/VR",
         "IoT",
@@ -194,26 +152,6 @@
       "tags": [
         "Communication",
         "Mobile",
-        "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31113",
-      "title": "MLAI Hackathon 2026",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-09-18",
-      "end": "2026-10-16",
-      "deadline": "2026-10-16",
-      "when_text": "Sep 18 - Oct 16, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://mlai-hackathon.devpost.com/",
-      "organizer": "Mạng Lưới AI",
-      "prize": "",
-      "tags": [
-        "Databases",
         "Machine Learning/AI"
       ],
       "source": "devpost"
@@ -484,6 +422,48 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-31512",
+      "title": "Neeley AI Forward: AI Innovation Competition ",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-16",
+      "end": "2026-10-18",
+      "deadline": "2026-10-18",
+      "when_text": "Oct 16 - 18, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://neeley-ai-forward.devpost.com/",
+      "organizer": "Texas Christian University",
+      "prize": "",
+      "tags": [
+        "Beginner Friendly",
+        "Education",
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31764",
+      "title": "AI Hackathon - Kenya",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-16",
+      "end": "2026-10-17",
+      "deadline": "2026-10-17",
+      "when_text": "Oct 16 - 17, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://ai-hackathon-ken.devpost.com/",
+      "organizer": "Jaseci Labs",
+      "prize": "",
+      "tags": [
+        "Fintech",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-31475",
       "title": "Agentic Enterprise AI Hackathon — Box + AWS",
       "type": "hackathon",
@@ -505,84 +485,63 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31728",
-      "title": "MTC x Grammarly: Agents in Action",
+      "id": "devpost-30029",
+      "title": "SwampHacks XII",
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-10-16",
-      "end": "2026-10-16",
-      "deadline": "2026-10-16",
-      "when_text": "Oct 16, 2026",
-      "location": "SoCo",
-      "online": false,
-      "url": "https://mtc-x-grammarly.devpost.com/",
-      "organizer": "Muslim Tech Collaborative",
-      "prize": "",
-      "tags": [
-        "Communication",
-        "Machine Learning/AI",
-        "Productivity"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31658",
-      "title": "AI At Work - Hack the Everyday",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-16",
-      "end": "2026-10-16",
-      "deadline": "2026-10-16",
-      "when_text": "Oct 16, 2026",
-      "location": "College for Creative Studies - Taubman",
-      "online": false,
-      "url": "https://ai-at-work-hack-the-everyday.devpost.com/",
-      "organizer": "Snowflake",
-      "prize": "",
-      "tags": [
-        "Databases",
-        "Machine Learning/AI",
-        "Productivity"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31172",
-      "title": "Hack Like W@CC 2026",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-17",
       "end": "2026-10-18",
       "deadline": "2026-10-18",
-      "when_text": "Oct 17 - 18, 2026",
-      "location": "Georgia Tech – Klaus Atrium, Klaus 1116",
+      "when_text": "Oct 16 - 18, 2026",
+      "location": "University of Florida - Reitz Union",
       "online": false,
-      "url": "https://hack-like-wacc-26.devpost.com/",
-      "organizer": "Women at College of Computing @ GT",
-      "prize": "",
+      "url": "https://swamphacks-xii.devpost.com/",
+      "organizer": "SwampHacks",
+      "prize": "$9,500",
       "tags": [
-        "Health",
-        "Machine Learning/AI",
-        "Open Ended"
+        "Beginner Friendly",
+        "Fintech",
+        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
     {
-      "id": "devpost-31616",
-      "title": "Zoftware AgentHack",
+      "id": "devpost-31761",
+      "title": "AI Hackathon - Sri Lanka",
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-10-17",
       "end": "2026-10-17",
       "deadline": "2026-10-17",
       "when_text": "Oct 17, 2026",
-      "location": "Spring House Workspaces SHGU001",
+      "location": "Measurement Lab",
       "online": false,
-      "url": "https://zoftware-agenthack.devpost.com/",
-      "organizer": "zoftwarehub",
-      "prize": "$500",
+      "url": "https://ai-hackathon-sl.devpost.com/",
+      "organizer": "Jaseci Labs",
+      "prize": "$1,000",
       "tags": [
-        "Enterprise"
+        "Machine Learning/AI",
+        "Fintech",
+        "Social Good"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-30323",
+      "title": "AI Hackathon 2026 by LA Hacks",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "deadline": "2026-10-18",
+      "when_text": "Oct 17 - 18, 2026",
+      "location": "James West Alumni Center",
+      "online": false,
+      "url": "https://la-ai-hackathon-2026.devpost.com/",
+      "organizer": "LA Hacks",
+      "prize": "$25,021,600",
+      "tags": [
+        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
@@ -608,6 +567,27 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-31172",
+      "title": "Hack Like W@CC 2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "deadline": "2026-10-18",
+      "when_text": "Oct 17 - 18, 2026",
+      "location": "Georgia Tech – Klaus Atrium, Klaus 1116",
+      "online": false,
+      "url": "https://hack-like-wacc-26.devpost.com/",
+      "organizer": "Women at College of Computing @ GT",
+      "prize": "",
+      "tags": [
+        "Health",
+        "Machine Learning/AI",
+        "Open Ended"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-31732",
       "title": "Build The Next Big Thing with AI - Devmarketplace",
       "type": "hackathon",
@@ -625,6 +605,25 @@
         "Databases",
         "Machine Learning/AI",
         "Web"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31616",
+      "title": "Zoftware AgentHack",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-24",
+      "end": "2026-10-24",
+      "deadline": "2026-10-24",
+      "when_text": "Oct 24, 2026",
+      "location": "Spring House Workspaces SHGU001",
+      "online": false,
+      "url": "https://zoftware-agenthack.devpost.com/",
+      "organizer": "zoftwarehub",
+      "prize": "$500",
+      "tags": [
+        "Enterprise"
       ],
       "source": "devpost"
     },
