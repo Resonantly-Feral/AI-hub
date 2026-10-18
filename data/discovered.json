@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-17T10:39:28.995Z",
-  "checked": "2026-10-17T10:39:28.996Z",
+  "updated": "2026-10-18T10:59:56.554Z",
+  "checked": "2026-10-18T10:59:56.555Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 34
+      "count": 33
     }
   ],
   "events": [
@@ -383,7 +383,7 @@
     },
     {
       "id": "devpost-31736",
-      "title": "Graph Hacks",
+      "title": "CreateAThon",
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-10-14",
@@ -443,48 +443,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31764",
-      "title": "AI Hackathon - Kenya",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-16",
-      "end": "2026-10-17",
-      "deadline": "2026-10-17",
-      "when_text": "Oct 16 - 17, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://ai-hackathon-ken.devpost.com/",
-      "organizer": "Jaseci Labs",
-      "prize": "",
-      "tags": [
-        "Fintech",
-        "Machine Learning/AI",
-        "Social Good"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31475",
-      "title": "Agentic Enterprise AI Hackathon — Box + AWS",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-16",
-      "end": "2026-10-17",
-      "deadline": "2026-10-17",
-      "when_text": "Oct 16 - 17, 2026",
-      "location": "Amazon Day 1 Building",
-      "online": false,
-      "url": "https://agentic-ai-hackathon-box-aws.devpost.com/",
-      "organizer": "box",
-      "prize": "",
-      "tags": [
-        "DevOps",
-        "Enterprise",
-        "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-30029",
       "title": "SwampHacks XII",
       "type": "hackathon",
@@ -506,23 +464,44 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31761",
-      "title": "AI Hackathon - Sri Lanka",
+      "id": "devpost-31789",
+      "title": "STEM2Connect AI Hackathon",
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-10-17",
-      "end": "2026-10-17",
-      "deadline": "2026-10-17",
-      "when_text": "Oct 17, 2026",
-      "location": "Measurement Lab",
-      "online": false,
-      "url": "https://ai-hackathon-sl.devpost.com/",
-      "organizer": "Jaseci Labs",
-      "prize": "$1,000",
+      "end": "2026-10-28",
+      "deadline": "2026-10-28",
+      "when_text": "Oct 17 - 28, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://stem2connect-online-hackathon.devpost.com/",
+      "organizer": "STEM2Connect",
+      "prize": "",
       "tags": [
-        "Machine Learning/AI",
-        "Fintech",
-        "Social Good"
+        "Beginner Friendly",
+        "Education",
+        "Web"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31279",
+      "title": "Arm + ExecuTorch: Edge AI Challenge",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "deadline": "2026-10-18",
+      "when_text": "Oct 17 - 18, 2026",
+      "location": "San Francisco State University",
+      "online": false,
+      "url": "https://arm-executorch.devpost.com/",
+      "organizer": "arm",
+      "prize": "",
+      "tags": [
+        "AR/VR",
+        "IoT",
+        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
@@ -539,7 +518,7 @@
       "online": false,
       "url": "https://la-ai-hackathon-2026.devpost.com/",
       "organizer": "LA Hacks",
-      "prize": "$25,021,600",
+      "prize": "$41,650",
       "tags": [
         "Machine Learning/AI"
       ],
