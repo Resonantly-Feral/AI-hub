@@ -1,14 +1,35 @@
 {
-  "updated": "2026-10-18T10:59:56.554Z",
-  "checked": "2026-10-18T10:59:56.555Z",
+  "updated": "2026-10-19T13:07:43.805Z",
+  "checked": "2026-10-19T13:07:43.805Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 33
+      "count": 29
     }
   ],
   "events": [
+    {
+      "id": "devpost-30500",
+      "title": "DSH Hacks V2 ($100k+ in prizes!)",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-06-24",
+      "end": "2026-11-15",
+      "deadline": "2026-11-15",
+      "when_text": "Jun 24 - Nov 15, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://dsh-hacks-v2.devpost.com/",
+      "organizer": "STEMise",
+      "prize": "",
+      "tags": [
+        "Beginner Friendly",
+        "Low/No Code",
+        "Open Ended"
+      ],
+      "source": "devpost"
+    },
     {
       "id": "devpost-29411",
       "title": "Galuxium Nexus V2",
@@ -48,6 +69,48 @@
         "Education",
         "Machine Learning/AI",
         "Web"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-30764",
+      "title": "Syntax Summit",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-07-18",
+      "end": "2027-01-14",
+      "deadline": "2027-01-14",
+      "when_text": "Jul 18, 2026 - Jan 14, 2027",
+      "location": "Online",
+      "online": true,
+      "url": "https://syntax-summit.devpost.com/",
+      "organizer": "Student Organization",
+      "prize": "",
+      "tags": [
+        "DevOps",
+        "Machine Learning/AI",
+        "Robotic Process Automation"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-30781",
+      "title": "UnivaBio ($40,000 in prizes) ",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-08-07",
+      "end": "2026-10-20",
+      "deadline": "2026-10-20",
+      "when_text": "Aug 07 - Oct 20, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://univabio.devpost.com/",
+      "organizer": "BioCataalysis",
+      "prize": "",
+      "tags": [
+        "Beginner Friendly",
+        "Health",
+        "Social Good"
       ],
       "source": "devpost"
     },
@@ -174,25 +237,6 @@
         "Machine Learning/AI",
         "Beginner Friendly",
         "Education"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31180",
-      "title": "AI Lodge Hackathon 2026",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-09-22",
-      "end": "2026-10-18",
-      "deadline": "2026-10-18",
-      "when_text": "Sep 22 - Oct 18, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://ai-lodge-hackathon-2026.devpost.com/",
-      "organizer": "SMU Business Intelligence & Analytics",
-      "prize": "",
-      "tags": [
-        "Beginner Friendly"
       ],
       "source": "devpost"
     },
@@ -422,48 +466,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31512",
-      "title": "Neeley AI Forward: AI Innovation Competition ",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-16",
-      "end": "2026-10-18",
-      "deadline": "2026-10-18",
-      "when_text": "Oct 16 - 18, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://neeley-ai-forward.devpost.com/",
-      "organizer": "Texas Christian University",
-      "prize": "",
-      "tags": [
-        "Beginner Friendly",
-        "Education",
-        "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-30029",
-      "title": "SwampHacks XII",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-16",
-      "end": "2026-10-18",
-      "deadline": "2026-10-18",
-      "when_text": "Oct 16 - 18, 2026",
-      "location": "University of Florida - Reitz Union",
-      "online": false,
-      "url": "https://swamphacks-xii.devpost.com/",
-      "organizer": "SwampHacks",
-      "prize": "$9,500",
-      "tags": [
-        "Beginner Friendly",
-        "Fintech",
-        "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31789",
       "title": "STEM2Connect AI Hackathon",
       "type": "hackathon",
@@ -481,88 +483,6 @@
         "Beginner Friendly",
         "Education",
         "Web"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31279",
-      "title": "Arm + ExecuTorch: Edge AI Challenge",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-17",
-      "end": "2026-10-18",
-      "deadline": "2026-10-18",
-      "when_text": "Oct 17 - 18, 2026",
-      "location": "San Francisco State University",
-      "online": false,
-      "url": "https://arm-executorch.devpost.com/",
-      "organizer": "arm",
-      "prize": "",
-      "tags": [
-        "AR/VR",
-        "IoT",
-        "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-30323",
-      "title": "AI Hackathon 2026 by LA Hacks",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-17",
-      "end": "2026-10-18",
-      "deadline": "2026-10-18",
-      "when_text": "Oct 17 - 18, 2026",
-      "location": "James West Alumni Center",
-      "online": false,
-      "url": "https://la-ai-hackathon-2026.devpost.com/",
-      "organizer": "LA Hacks",
-      "prize": "$41,650",
-      "tags": [
-        "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31344",
-      "title": "IKU Womxn in STEM Hackathon",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-17",
-      "end": "2026-10-18",
-      "deadline": "2026-10-18",
-      "when_text": "Oct 17 - 18, 2026",
-      "location": "King's College London - Bush House",
-      "online": false,
-      "url": "https://iku-womxn-in-stem-hackathon.devpost.com/",
-      "organizer": "IKU Womxn in STEM",
-      "prize": "£0",
-      "tags": [
-        "Education",
-        "IoT",
-        "Web"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31172",
-      "title": "Hack Like W@CC 2026",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-17",
-      "end": "2026-10-18",
-      "deadline": "2026-10-18",
-      "when_text": "Oct 17 - 18, 2026",
-      "location": "Georgia Tech – Klaus Atrium, Klaus 1116",
-      "online": false,
-      "url": "https://hack-like-wacc-26.devpost.com/",
-      "organizer": "Women at College of Computing @ GT",
-      "prize": "",
-      "tags": [
-        "Health",
-        "Machine Learning/AI",
-        "Open Ended"
       ],
       "source": "devpost"
     },
