@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-19T13:07:43.805Z",
-  "checked": "2026-10-19T13:07:43.805Z",
+  "updated": "2026-10-20T11:31:38.896Z",
+  "checked": "2026-10-20T11:31:38.896Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 29
+      "count": 30
     }
   ],
   "events": [
@@ -190,7 +190,7 @@
       "online": false,
       "url": "https://next-gen-hackathon.devpost.com/",
       "organizer": "RAAIF",
-      "prize": "₹ 40,000",
+      "prize": "₹ 0",
       "tags": [
         "AR/VR",
         "IoT",
@@ -462,6 +462,27 @@
         "AR/VR",
         "Machine Learning/AI",
         "Design"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31694",
+      "title": "MineArena 1.0",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-15",
+      "end": "2026-10-31",
+      "deadline": "2026-10-31",
+      "when_text": "Oct 15 - 31, 2026",
+      "location": "SSM cultural centre",
+      "online": false,
+      "url": "https://minearena-1-0.devpost.com/",
+      "organizer": "Code commit",
+      "prize": "₹ 75,000",
+      "tags": [
+        "Machine Learning/AI",
+        "Fintech",
+        "Health"
       ],
       "source": "devpost"
     },
