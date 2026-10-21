@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20T11:31:38.896Z",
-  "checked": "2026-10-20T11:31:38.896Z",
+  "updated": "2026-10-21T11:44:36.428Z",
+  "checked": "2026-10-21T11:44:36.428Z",
   "sources": [
     {
       "name": "Devpost",
@@ -27,27 +27,6 @@
         "Beginner Friendly",
         "Low/No Code",
         "Open Ended"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-29411",
-      "title": "Galuxium Nexus V2",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-07-15",
-      "end": "2026-10-31",
-      "deadline": "2026-10-31",
-      "when_text": "Jul 15 - Oct 31, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://galuxium-nexus-v2-29411.devpost.com/",
-      "organizer": "Galuxium",
-      "prize": "$14,644",
-      "tags": [
-        "Enterprise",
-        "Machine Learning/AI",
-        "Productivity"
       ],
       "source": "devpost"
     },
@@ -90,27 +69,6 @@
         "DevOps",
         "Machine Learning/AI",
         "Robotic Process Automation"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-30781",
-      "title": "UnivaBio ($40,000 in prizes) ",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-08-07",
-      "end": "2026-10-20",
-      "deadline": "2026-10-20",
-      "when_text": "Aug 07 - Oct 20, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://univabio.devpost.com/",
-      "organizer": "BioCataalysis",
-      "prize": "",
-      "tags": [
-        "Beginner Friendly",
-        "Health",
-        "Social Good"
       ],
       "source": "devpost"
     },
@@ -237,27 +195,6 @@
         "Machine Learning/AI",
         "Beginner Friendly",
         "Education"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31477",
-      "title": "INDUX 5.0-2026",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-09-22",
-      "end": "2026-10-20",
-      "deadline": "2026-10-20",
-      "when_text": "Sep 22 - Oct 20, 2026",
-      "location": "Vikrant University , Gwalior",
-      "online": false,
-      "url": "https://indux-5-0-2026.devpost.com/",
-      "organizer": "vikrant university, gwalior",
-      "prize": "₹ 225,000",
-      "tags": [
-        "Cybersecurity",
-        "Design",
-        "Robotic Process Automation"
       ],
       "source": "devpost"
     },
@@ -492,9 +429,9 @@
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-10-17",
-      "end": "2026-10-28",
-      "deadline": "2026-10-28",
-      "when_text": "Oct 17 - 28, 2026",
+      "end": "2026-11-21",
+      "deadline": "2026-11-21",
+      "when_text": "Oct 17 - Nov 21, 2026",
       "location": "Online",
       "online": true,
       "url": "https://stem2connect-online-hackathon.devpost.com/",
@@ -504,6 +441,27 @@
         "Beginner Friendly",
         "Education",
         "Web"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31676",
+      "title": "HACK INSIGHT",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-18",
+      "end": "2026-10-21",
+      "deadline": "2026-10-21",
+      "when_text": "Oct 18 - 21, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://hack-insight.devpost.com/",
+      "organizer": "NED ",
+      "prize": "$144",
+      "tags": [
+        "Machine Learning/AI",
+        "Voice skills",
+        "Education"
       ],
       "source": "devpost"
     },
@@ -525,6 +483,46 @@
         "Databases",
         "Machine Learning/AI",
         "Web"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-30789",
+      "title": "Arbiter Hacks V1",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-20",
+      "end": "2026-12-21",
+      "deadline": "2026-12-21",
+      "when_text": "Oct 20 - Dec 21, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://arbiter-hacks-v1.devpost.com/",
+      "organizer": "Arbiter ",
+      "prize": "$7,800",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Open Ended"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31821",
+      "title": "Engage 6.0 – Code with AI Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-21",
+      "end": "2026-10-27",
+      "deadline": "2026-10-27",
+      "when_text": "Oct 21 - 27, 2026",
+      "location": "The NorthCap University",
+      "online": false,
+      "url": "https://engage6.devpost.com/",
+      "organizer": "The Northcap University",
+      "prize": "$45,000",
+      "tags": [
+        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
