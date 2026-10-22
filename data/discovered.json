@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-21T11:44:36.428Z",
-  "checked": "2026-10-21T11:44:36.428Z",
+  "updated": "2026-10-22T11:47:24.990Z",
+  "checked": "2026-10-22T11:47:24.990Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 30
+      "count": 33
     }
   ],
   "events": [
@@ -323,26 +323,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31617",
-      "title": "IEEE Hack For Humanity",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-11",
-      "end": "2026-10-21",
-      "deadline": "2026-10-21",
-      "when_text": "Oct 11 - 21, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
-      "organizer": "IEEE Charlotte Section",
-      "prize": "",
-      "tags": [
-        "Machine Learning/AI",
-        "Social Good"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31735",
       "title": "AI Build India",
       "type": "hackathon",
@@ -445,23 +425,23 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31676",
-      "title": "HACK INSIGHT",
+      "id": "devpost-31777",
+      "title": "GLITCHATHON",
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-10-18",
-      "end": "2026-10-21",
-      "deadline": "2026-10-21",
-      "when_text": "Oct 18 - 21, 2026",
+      "end": "2026-10-25",
+      "deadline": "2026-10-25",
+      "when_text": "Oct 18 - 25, 2026",
       "location": "Online",
       "online": true,
-      "url": "https://hack-insight.devpost.com/",
-      "organizer": "NED ",
-      "prize": "$144",
+      "url": "https://glitchathon.devpost.com/",
+      "organizer": "sir padampat singhania university ",
+      "prize": "₹ 200",
       "tags": [
-        "Machine Learning/AI",
-        "Voice skills",
-        "Education"
+        "Design",
+        "Low/No Code",
+        "Productivity"
       ],
       "source": "devpost"
     },
@@ -527,6 +507,46 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-31621",
+      "title": "CapCut x EAST2046 University of Cambridge Creator Lab Free Learning Campus",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-22",
+      "end": "2026-10-22",
+      "deadline": "2026-10-22",
+      "when_text": "Oct 22, 2026",
+      "location": "IfM, University of Cambridge",
+      "online": false,
+      "url": "https://cambridge-creator-lab.devpost.com/",
+      "organizer": "east2046",
+      "prize": "",
+      "tags": [
+        "Machine Learning/AI",
+        "Music/Art",
+        "Web"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31840",
+      "title": "Zero Human Company Hackathon at Whop HQ by Terac",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-24",
+      "end": "2026-10-24",
+      "deadline": "2026-10-24",
+      "when_text": "Oct 24, 2026",
+      "location": "Whop Headquarters",
+      "online": false,
+      "url": "https://zhch-nyc.devpost.com/",
+      "organizer": "Terac",
+      "prize": "$2,500",
+      "tags": [
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-31616",
       "title": "Zoftware AgentHack",
       "type": "hackathon",
@@ -561,6 +581,48 @@
       "prize": "",
       "tags": [
         "Open Ended"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31772",
+      "title": "Haunted Hacks: Realtime AI Edition",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-31",
+      "end": "2026-10-31",
+      "deadline": "2026-10-31",
+      "when_text": "Oct 31, 2026",
+      "location": "Y Combinator",
+      "online": false,
+      "url": "https://haunted-hacks.devpost.com/",
+      "organizer": "Terse",
+      "prize": "",
+      "tags": [
+        "Machine Learning/AI",
+        "Serverless",
+        "Web"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31811",
+      "title": "BDBI x SpaceXSI Grokathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-02",
+      "end": "2026-11-02",
+      "deadline": "2026-11-02",
+      "when_text": "Nov 02, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://bdbi-x-spacexsi.devpost.com/",
+      "organizer": "SpaceXSI",
+      "prize": "",
+      "tags": [
+        "Machine Learning/AI",
+        "Open Ended",
+        "Social Good"
       ],
       "source": "devpost"
     },
