@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-22T11:47:24.990Z",
-  "checked": "2026-10-22T11:47:24.990Z",
+  "updated": "2026-10-23T11:34:27.155Z",
+  "checked": "2026-10-23T11:34:27.155Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 33
+      "count": 32
     }
   ],
   "events": [
@@ -132,27 +132,6 @@
         "Machine Learning/AI",
         "Open Ended",
         "Productivity"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31116",
-      "title": "Next Gen Hackathon 2026 -Bengaluru",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-09-01",
-      "end": "2026-10-23",
-      "deadline": "2026-10-23",
-      "when_text": "Sep 01 - Oct 23, 2026",
-      "location": "Tripura Vasini Palace Grounds, Bengaluru",
-      "online": false,
-      "url": "https://next-gen-hackathon.devpost.com/",
-      "organizer": "RAAIF",
-      "prize": "₹ 0",
-      "tags": [
-        "AR/VR",
-        "IoT",
-        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
@@ -323,6 +302,26 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-31617",
+      "title": "IEEE Hack For Humanity",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-11",
+      "end": "2026-10-23",
+      "deadline": "2026-10-23",
+      "when_text": "Oct 11 - 23, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
+      "organizer": "IEEE Charlotte Section",
+      "prize": "",
+      "tags": [
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-31735",
       "title": "AI Build India",
       "type": "hackathon",
@@ -446,27 +445,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31732",
-      "title": "Build The Next Big Thing with AI - Devmarketplace",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-19",
-      "end": "2026-10-22",
-      "deadline": "2026-10-22",
-      "when_text": "Oct 19 - 22, 2026",
-      "location": "NED University",
-      "online": false,
-      "url": "https://build-next-big-thing-with-ai.devpost.com/",
-      "organizer": "devmarketplace",
-      "prize": "₹ 100,000",
-      "tags": [
-        "Databases",
-        "Machine Learning/AI",
-        "Web"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-30789",
       "title": "Arbiter Hacks V1",
       "type": "hackathon",
@@ -507,23 +485,23 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31621",
-      "title": "CapCut x EAST2046 University of Cambridge Creator Lab Free Learning Campus",
+      "id": "devpost-31552",
+      "title": "UGREEN Hackathon 2026 on AI NAS",
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-10-22",
-      "end": "2026-10-22",
-      "deadline": "2026-10-22",
-      "when_text": "Oct 22, 2026",
-      "location": "IfM, University of Cambridge",
-      "online": false,
-      "url": "https://cambridge-creator-lab.devpost.com/",
-      "organizer": "east2046",
-      "prize": "",
+      "end": "2026-11-16",
+      "deadline": "2026-11-16",
+      "when_text": "Oct 22 - Nov 16, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://ugreenhackathon.devpost.com/",
+      "organizer": "UGREEN",
+      "prize": "$46,000",
       "tags": [
+        "Lifehacks",
         "Machine Learning/AI",
-        "Music/Art",
-        "Web"
+        "Productivity"
       ],
       "source": "devpost"
     },
