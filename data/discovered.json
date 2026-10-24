@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-23T11:34:27.155Z",
-  "checked": "2026-10-23T11:34:27.155Z",
+  "updated": "2026-10-24T10:54:42.953Z",
+  "checked": "2026-10-24T10:54:42.953Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 32
+      "count": 35
     }
   ],
   "events": [
@@ -111,27 +111,6 @@
         "IoT",
         "Machine Learning/AI",
         "Serverless"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-30992",
-      "title": "Build, Ship, Shape: Amazon Developer Hackathon",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-08-31",
-      "end": "2026-10-23",
-      "deadline": "2026-10-23",
-      "when_text": "Aug 31 - Oct 23, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://amazonappdev2026.devpost.com/",
-      "organizer": "Amazon",
-      "prize": "$138,000",
-      "tags": [
-        "Machine Learning/AI",
-        "Open Ended",
-        "Productivity"
       ],
       "source": "devpost"
     },
@@ -302,26 +281,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31617",
-      "title": "IEEE Hack For Humanity",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-11",
-      "end": "2026-10-23",
-      "deadline": "2026-10-23",
-      "when_text": "Oct 11 - 23, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
-      "organizer": "IEEE Charlotte Section",
-      "prize": "",
-      "tags": [
-        "Machine Learning/AI",
-        "Social Good"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31735",
       "title": "AI Build India",
       "type": "hackathon",
@@ -424,27 +383,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31777",
-      "title": "GLITCHATHON",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-18",
-      "end": "2026-10-25",
-      "deadline": "2026-10-25",
-      "when_text": "Oct 18 - 25, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://glitchathon.devpost.com/",
-      "organizer": "sir padampat singhania university ",
-      "prize": "₹ 200",
-      "tags": [
-        "Design",
-        "Low/No Code",
-        "Productivity"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-30789",
       "title": "Arbiter Hacks V1",
       "type": "hackathon",
@@ -506,6 +444,127 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-31853",
+      "title": "Sydney Mobile AI Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-23",
+      "end": "2026-10-24",
+      "deadline": "2026-10-24",
+      "when_text": "Oct 23 - 24, 2026",
+      "location": "20 Martin Place",
+      "online": false,
+      "url": "https://sydney-mobile-ai-hackathon.devpost.com/",
+      "organizer": "The App Blueprint",
+      "prize": "",
+      "tags": [
+        "Machine Learning/AI",
+        "Mobile"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31165",
+      "title": "2026 AI for Good Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-23",
+      "end": "2026-10-25",
+      "deadline": "2026-10-25",
+      "when_text": "Oct 23 - 25, 2026",
+      "location": "The Link",
+      "online": false,
+      "url": "https://2026ai4goodhackathon.devpost.com/",
+      "organizer": "Florida Data Science for Social Good",
+      "prize": "",
+      "tags": [
+        "Machine Learning/AI",
+        "Social Good",
+        "Music/Art"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31061",
+      "title": "Gator Hack V - AI Days 2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-23",
+      "end": "2026-10-25",
+      "deadline": "2026-10-25",
+      "when_text": "Oct 23 - 25, 2026",
+      "location": "Newell Hall, University of Florida",
+      "online": false,
+      "url": "https://gatorhack2026.devpost.com/",
+      "organizer": "University of Florida",
+      "prize": "$6,000",
+      "tags": [
+        "Education"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31845",
+      "title": "SpartHill Hacks 2026: IBM AI Challenge",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-23",
+      "end": "2026-10-24",
+      "deadline": "2026-10-24",
+      "when_text": "Oct 23 - 24, 2026",
+      "location": "SJSU - Spartan Complex",
+      "online": false,
+      "url": "https://sparthill-ibm-2026.devpost.com/",
+      "organizer": "IBM",
+      "prize": "",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31742",
+      "title": "Codex x TwitchCon Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-23",
+      "end": "2026-11-02",
+      "deadline": "2026-11-02",
+      "when_text": "Oct 23 - Nov 02, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://twitchcon-codex.devpost.com/",
+      "organizer": "Twitch",
+      "prize": "$25,000",
+      "tags": [
+        "Communication",
+        "Gaming",
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31857",
+      "title": "AI in Healthcare Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-24",
+      "end": "2026-10-25",
+      "deadline": "2026-10-25",
+      "when_text": "Oct 24 - 25, 2026",
+      "location": "University of Leeds - Helix",
+      "online": false,
+      "url": "https://leeds-ai-hackathon.devpost.com/",
+      "organizer": "Leeds AI Society",
+      "prize": "£800",
+      "tags": [
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-31840",
       "title": "Zero Human Company Hackathon at Whop HQ by Terac",
       "type": "hackathon",
@@ -525,21 +584,21 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31616",
-      "title": "Zoftware AgentHack",
+      "id": "devpost-31846",
+      "title": "Agent Builders Hackathon",
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-10-24",
       "end": "2026-10-24",
       "deadline": "2026-10-24",
       "when_text": "Oct 24, 2026",
-      "location": "Spring House Workspaces SHGU001",
+      "location": "Primitive Office",
       "online": false,
-      "url": "https://zoftware-agenthack.devpost.com/",
-      "organizer": "zoftwarehub",
-      "prize": "$500",
+      "url": "https://agent-builders-hackathon.devpost.com/",
+      "organizer": "Omnara",
+      "prize": "",
       "tags": [
-        "Enterprise"
+        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
@@ -563,23 +622,21 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31772",
-      "title": "Haunted Hacks: Realtime AI Edition",
+      "id": "devpost-31616",
+      "title": "Zoftware Hackathon",
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-10-31",
       "end": "2026-10-31",
       "deadline": "2026-10-31",
       "when_text": "Oct 31, 2026",
-      "location": "Y Combinator",
+      "location": "Spring House Workspaces SHGU001",
       "online": false,
-      "url": "https://haunted-hacks.devpost.com/",
-      "organizer": "Terse",
-      "prize": "",
+      "url": "https://zoftware-agenthack.devpost.com/",
+      "organizer": "zoftwarehub",
+      "prize": "$500",
       "tags": [
-        "Machine Learning/AI",
-        "Serverless",
-        "Web"
+        "Enterprise"
       ],
       "source": "devpost"
     },
