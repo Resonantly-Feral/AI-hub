@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-24T10:54:42.953Z",
-  "checked": "2026-10-24T10:54:42.953Z",
+  "updated": "2026-10-25T11:21:38.135Z",
+  "checked": "2026-10-25T11:21:38.135Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 35
+      "count": 30
     }
   ],
   "events": [
@@ -48,27 +48,6 @@
         "Education",
         "Machine Learning/AI",
         "Web"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-30764",
-      "title": "Syntax Summit",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-07-18",
-      "end": "2027-01-14",
-      "deadline": "2027-01-14",
-      "when_text": "Jul 18, 2026 - Jan 14, 2027",
-      "location": "Online",
-      "online": true,
-      "url": "https://syntax-summit.devpost.com/",
-      "organizer": "Student Organization",
-      "prize": "",
-      "tags": [
-        "DevOps",
-        "Machine Learning/AI",
-        "Robotic Process Automation"
       ],
       "source": "devpost"
     },
@@ -444,26 +423,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31853",
-      "title": "Sydney Mobile AI Hackathon",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-23",
-      "end": "2026-10-24",
-      "deadline": "2026-10-24",
-      "when_text": "Oct 23 - 24, 2026",
-      "location": "20 Martin Place",
-      "online": false,
-      "url": "https://sydney-mobile-ai-hackathon.devpost.com/",
-      "organizer": "The App Blueprint",
-      "prize": "",
-      "tags": [
-        "Machine Learning/AI",
-        "Mobile"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31165",
       "title": "2026 AI for Good Hackathon",
       "type": "hackathon",
@@ -504,27 +463,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31845",
-      "title": "SpartHill Hacks 2026: IBM AI Challenge",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-23",
-      "end": "2026-10-24",
-      "deadline": "2026-10-24",
-      "when_text": "Oct 23 - 24, 2026",
-      "location": "SJSU - Spartan Complex",
-      "online": false,
-      "url": "https://sparthill-ibm-2026.devpost.com/",
-      "organizer": "IBM",
-      "prize": "",
-      "tags": [
-        "Beginner Friendly",
-        "Machine Learning/AI",
-        "Social Good"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31742",
       "title": "Codex x TwitchCon Hackathon",
       "type": "hackathon",
@@ -559,44 +497,6 @@
       "url": "https://leeds-ai-hackathon.devpost.com/",
       "organizer": "Leeds AI Society",
       "prize": "£800",
-      "tags": [
-        "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31840",
-      "title": "Zero Human Company Hackathon at Whop HQ by Terac",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-24",
-      "end": "2026-10-24",
-      "deadline": "2026-10-24",
-      "when_text": "Oct 24, 2026",
-      "location": "Whop Headquarters",
-      "online": false,
-      "url": "https://zhch-nyc.devpost.com/",
-      "organizer": "Terac",
-      "prize": "$2,500",
-      "tags": [
-        "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31846",
-      "title": "Agent Builders Hackathon",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-24",
-      "end": "2026-10-24",
-      "deadline": "2026-10-24",
-      "when_text": "Oct 24, 2026",
-      "location": "Primitive Office",
-      "online": false,
-      "url": "https://agent-builders-hackathon.devpost.com/",
-      "organizer": "Omnara",
-      "prize": "",
       "tags": [
         "Machine Learning/AI"
       ],
