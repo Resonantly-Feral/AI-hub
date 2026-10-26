@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-25T11:21:38.135Z",
-  "checked": "2026-10-25T11:21:38.135Z",
+  "updated": "2026-10-26T12:55:52.678Z",
+  "checked": "2026-10-26T12:55:52.678Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 30
+      "count": 29
     }
   ],
   "events": [
@@ -48,6 +48,27 @@
         "Education",
         "Machine Learning/AI",
         "Web"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-30764",
+      "title": "Syntax Summit",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-07-18",
+      "end": "2027-01-14",
+      "deadline": "2027-01-14",
+      "when_text": "Jul 18, 2026 - Jan 14, 2027",
+      "location": "Online",
+      "online": true,
+      "url": "https://syntax-summit.devpost.com/",
+      "organizer": "Student Organization",
+      "prize": "",
+      "tags": [
+        "DevOps",
+        "Machine Learning/AI",
+        "Robotic Process Automation"
       ],
       "source": "devpost"
     },
@@ -218,27 +239,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-29114",
-      "title": "IEEE ClimateChain Global Hackathon",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-05",
-      "end": "2026-10-25",
-      "deadline": "2026-10-25",
-      "when_text": "Oct 05 - 25, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://ieee-climatechain-hack.devpost.com/",
-      "organizer": "IEEE Turkey",
-      "prize": "$3,000",
-      "tags": [
-        "Blockchain",
-        "Machine Learning/AI",
-        "Social Good"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31503",
       "title": "Life After Code",
       "type": "hackathon",
@@ -256,6 +256,27 @@
         "DevOps",
         "Machine Learning/AI",
         "Productivity"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31627",
+      "title": "Next Byte Hacks V5",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-06",
+      "end": "2026-10-31",
+      "deadline": "2026-10-31",
+      "when_text": "Oct 06 - 31, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://next-byte-hacks-v5.devpost.com/",
+      "organizer": "Next Byte Hacks",
+      "prize": "$100",
+      "tags": [
+        "Beginner Friendly",
+        "Low/No Code",
+        "Open Ended"
       ],
       "source": "devpost"
     },
@@ -337,6 +358,27 @@
         "Machine Learning/AI",
         "Fintech",
         "Health"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31666",
+      "title": "Mathematics for systems security",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-16",
+      "end": "2026-11-01",
+      "deadline": "2026-11-01",
+      "when_text": "Oct 16 - Nov 01, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://mathematics-systems-security.devpost.com/",
+      "organizer": "Software Engineering Club (DEV)",
+      "prize": "",
+      "tags": [
+        "Communication",
+        "Cybersecurity",
+        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
@@ -423,46 +465,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31165",
-      "title": "2026 AI for Good Hackathon",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-23",
-      "end": "2026-10-25",
-      "deadline": "2026-10-25",
-      "when_text": "Oct 23 - 25, 2026",
-      "location": "The Link",
-      "online": false,
-      "url": "https://2026ai4goodhackathon.devpost.com/",
-      "organizer": "Florida Data Science for Social Good",
-      "prize": "",
-      "tags": [
-        "Machine Learning/AI",
-        "Social Good",
-        "Music/Art"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31061",
-      "title": "Gator Hack V - AI Days 2026",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-23",
-      "end": "2026-10-25",
-      "deadline": "2026-10-25",
-      "when_text": "Oct 23 - 25, 2026",
-      "location": "Newell Hall, University of Florida",
-      "online": false,
-      "url": "https://gatorhack2026.devpost.com/",
-      "organizer": "University of Florida",
-      "prize": "$6,000",
-      "tags": [
-        "Education"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31742",
       "title": "Codex x TwitchCon Hackathon",
       "type": "hackathon",
@@ -479,25 +481,6 @@
       "tags": [
         "Communication",
         "Gaming",
-        "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31857",
-      "title": "AI in Healthcare Hackathon",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-24",
-      "end": "2026-10-25",
-      "deadline": "2026-10-25",
-      "when_text": "Oct 24 - 25, 2026",
-      "location": "University of Leeds - Helix",
-      "online": false,
-      "url": "https://leeds-ai-hackathon.devpost.com/",
-      "organizer": "Leeds AI Society",
-      "prize": "£800",
-      "tags": [
         "Machine Learning/AI"
       ],
       "source": "devpost"
