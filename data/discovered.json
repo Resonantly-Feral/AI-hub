@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-26T12:55:52.678Z",
-  "checked": "2026-10-26T12:55:52.678Z",
+  "updated": "2026-10-27T12:06:49.814Z",
+  "checked": "2026-10-27T12:06:49.814Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 29
+      "count": 32
     }
   ],
   "events": [
@@ -27,6 +27,27 @@
         "Beginner Friendly",
         "Low/No Code",
         "Open Ended"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-30539",
+      "title": "HTCJ × PROOF Aviation Futures Challenge",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-06-25",
+      "end": "2026-10-27",
+      "deadline": "2026-10-27",
+      "when_text": "Jun 25 - Oct 27, 2026",
+      "location": "Boston Venture Week",
+      "online": false,
+      "url": "https://htcj-aviation-futures.devpost.com/",
+      "organizer": "hacktheconcretejungle ",
+      "prize": "",
+      "tags": [
+        "Enterprise",
+        "Machine Learning/AI",
+        "Social Good"
       ],
       "source": "devpost"
     },
@@ -94,27 +115,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-30984",
-      "title": "OpenCV AI Competition 2026, powered by AWS",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-08-26",
-      "end": "2026-10-27",
-      "deadline": "2026-10-27",
-      "when_text": "Aug 26 - Oct 27, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://opencv26.devpost.com/",
-      "organizer": "OpenCV",
-      "prize": "$20,250",
-      "tags": [
-        "IoT",
-        "Machine Learning/AI",
-        "Serverless"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31052",
       "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
       "type": "hackathon",
@@ -132,27 +132,6 @@
         "Communication",
         "Mobile",
         "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-30447",
-      "title": "Build With AI: Basics",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-09-22",
-      "end": "2026-10-26",
-      "deadline": "2026-10-26",
-      "when_text": "Sep 22 - Oct 26, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://learn-ai-basics.devpost.com/",
-      "organizer": "Devpost",
-      "prize": "$2,500",
-      "tags": [
-        "Machine Learning/AI",
-        "Beginner Friendly",
-        "Education"
       ],
       "source": "devpost"
     },
@@ -256,6 +235,26 @@
         "DevOps",
         "Machine Learning/AI",
         "Productivity"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31626",
+      "title": "Hackathon Agéntico SoftwareChido 2026B",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-05",
+      "end": "2026-11-25",
+      "deadline": "2026-11-25",
+      "when_text": "Oct 05 - Nov 25, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://hackathon-agentico-2026b.devpost.com/",
+      "organizer": "ITESO",
+      "prize": "",
+      "tags": [
+        "Education",
+        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
@@ -367,9 +366,9 @@
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-10-16",
-      "end": "2026-11-01",
-      "deadline": "2026-11-01",
-      "when_text": "Oct 16 - Nov 01, 2026",
+      "end": "2026-11-15",
+      "deadline": "2026-11-15",
+      "when_text": "Oct 16 - Nov 15, 2026",
       "location": "Online",
       "online": true,
       "url": "https://mathematics-systems-security.devpost.com/",
@@ -486,6 +485,48 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-31896",
+      "title": "Solix AI Hackathon 2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-26",
+      "end": "2026-10-28",
+      "deadline": "2026-10-28",
+      "when_text": "Oct 26 - 28, 2026",
+      "location": "Qualcomm Institute, UC San Diego",
+      "online": false,
+      "url": "https://solix-ai-hackathon-2026.devpost.com/",
+      "organizer": "Data Science Student Society @ UCSD",
+      "prize": "$48,000",
+      "tags": [
+        "Health",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-26475",
+      "title": "Dakar Bitcoin Hack by BTrust",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-26",
+      "end": "2026-11-20",
+      "deadline": "2026-11-20",
+      "when_text": "Oct 26 - Nov 20, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
+      "organizer": "Dakar Bitcoin Days",
+      "prize": "$900",
+      "tags": [
+        "Blockchain",
+        "Fintech",
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-31760",
       "title": "Mergetober",
       "type": "hackathon",
@@ -583,6 +624,26 @@
         "Machine Learning/AI",
         "Open Ended",
         "Enterprise"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31891",
+      "title": "SearchHack: Build the next layer of AI search",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "deadline": "2026-11-14",
+      "when_text": "Nov 14, 2026",
+      "location": "Sunnyvale",
+      "online": false,
+      "url": "https://searchhack.devpost.com/",
+      "organizer": "Telem AI",
+      "prize": "",
+      "tags": [
+        "Machine Learning/AI",
+        "Web"
       ],
       "source": "devpost"
     },
