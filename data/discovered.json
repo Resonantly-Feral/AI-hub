@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-27T12:06:49.814Z",
-  "checked": "2026-10-27T12:06:49.814Z",
+  "updated": "2026-10-28T12:48:31.257Z",
+  "checked": "2026-10-28T12:48:31.257Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 32
+      "count": 31
     }
   ],
   "events": [
@@ -27,27 +27,6 @@
         "Beginner Friendly",
         "Low/No Code",
         "Open Ended"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-30539",
-      "title": "HTCJ × PROOF Aviation Futures Challenge",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-06-25",
-      "end": "2026-10-27",
-      "deadline": "2026-10-27",
-      "when_text": "Jun 25 - Oct 27, 2026",
-      "location": "Boston Venture Week",
-      "online": false,
-      "url": "https://htcj-aviation-futures.devpost.com/",
-      "organizer": "hacktheconcretejungle ",
-      "prize": "",
-      "tags": [
-        "Enterprise",
-        "Machine Learning/AI",
-        "Social Good"
       ],
       "source": "devpost"
     },
@@ -218,27 +197,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31503",
-      "title": "Life After Code",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-05",
-      "end": "2026-10-27",
-      "deadline": "2026-10-27",
-      "when_text": "Oct 05 - 27, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://gitlab-transcend.devpost.com/",
-      "organizer": "GitLab",
-      "prize": "$45,000",
-      "tags": [
-        "DevOps",
-        "Machine Learning/AI",
-        "Productivity"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31626",
       "title": "Hackathon Agéntico SoftwareChido 2026B",
       "type": "hackathon",
@@ -255,27 +213,6 @@
       "tags": [
         "Education",
         "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31627",
-      "title": "Next Byte Hacks V5",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-06",
-      "end": "2026-10-31",
-      "deadline": "2026-10-31",
-      "when_text": "Oct 06 - 31, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://next-byte-hacks-v5.devpost.com/",
-      "organizer": "Next Byte Hacks",
-      "prize": "$100",
-      "tags": [
-        "Beginner Friendly",
-        "Low/No Code",
-        "Open Ended"
       ],
       "source": "devpost"
     },
@@ -382,6 +319,27 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-31737",
+      "title": "HackWithAditya",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-16",
+      "end": "2026-11-25",
+      "deadline": "2026-11-25",
+      "when_text": "Oct 16 - Nov 25, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://hackwithaditya.devpost.com/",
+      "organizer": "Aditya University",
+      "prize": "₹ 500,000",
+      "tags": [
+        "Education",
+        "Health",
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-31789",
       "title": "STEM2Connect AI Hackathon",
       "type": "hackathon",
@@ -420,25 +378,6 @@
         "Beginner Friendly",
         "Machine Learning/AI",
         "Open Ended"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31821",
-      "title": "Engage 6.0 – Code with AI Hackathon",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-21",
-      "end": "2026-10-27",
-      "deadline": "2026-10-27",
-      "when_text": "Oct 21 - 27, 2026",
-      "location": "The NorthCap University",
-      "online": false,
-      "url": "https://engage6.devpost.com/",
-      "organizer": "The Northcap University",
-      "prize": "$45,000",
-      "tags": [
-        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
@@ -496,8 +435,8 @@
       "location": "Qualcomm Institute, UC San Diego",
       "online": false,
       "url": "https://solix-ai-hackathon-2026.devpost.com/",
-      "organizer": "Data Science Student Society @ UCSD",
-      "prize": "$48,000",
+      "organizer": "Solix ",
+      "prize": "",
       "tags": [
         "Health",
         "Machine Learning/AI",
@@ -506,19 +445,61 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-26475",
-      "title": "Dakar Bitcoin Hack by BTrust",
+      "id": "devpost-31907",
+      "title": "Build Your First AI App",
       "type": "hackathon",
       "platform": "Devpost",
-      "start": "2026-10-26",
-      "end": "2026-11-20",
-      "deadline": "2026-11-20",
-      "when_text": "Oct 26 - Nov 20, 2026",
+      "start": "2026-10-27",
+      "end": "2026-11-27",
+      "deadline": "2026-11-27",
+      "when_text": "Oct 27 - Nov 27, 2026",
       "location": "Online",
       "online": true,
-      "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-      "organizer": "Dakar Bitcoin Days",
-      "prize": "$900",
+      "url": "https://build-your-first-ai-app.devpost.com/",
+      "organizer": "Yasir Insights",
+      "prize": "",
+      "tags": [
+        "Education",
+        "Machine Learning/AI",
+        "Web"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31572",
+      "title": "Codegeist 2026: Build with context. Ship with confidence.",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-27",
+      "end": "2026-12-22",
+      "deadline": "2026-12-22",
+      "when_text": "Oct 27 - Dec 22, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://codegeist2026.devpost.com/",
+      "organizer": "Atlassian",
+      "prize": "$120,000",
+      "tags": [
+        "Machine Learning/AI",
+        "Enterprise",
+        "Productivity"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31910",
+      "title": "Code-con",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-28",
+      "end": "2026-10-30",
+      "deadline": "2026-10-30",
+      "when_text": "Oct 28 - 30, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://code-con.devpost.com/",
+      "organizer": "Telem AI",
+      "prize": "₹ 0",
       "tags": [
         "Blockchain",
         "Fintech",
