@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-28T12:48:31.257Z",
-  "checked": "2026-10-28T12:48:31.257Z",
+  "updated": "2026-10-29T12:56:02.658Z",
+  "checked": "2026-10-29T12:56:02.658Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 31
+      "count": 30
     }
   ],
   "events": [
@@ -90,27 +90,6 @@
         "Machine Learning/AI",
         "Beginner Friendly",
         "Robotic Process Automation"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31052",
-      "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-09-14",
-      "end": "2026-10-28",
-      "deadline": "2026-10-28",
-      "when_text": "Sep 14 - Oct 28, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://aws-cds-partner.devpost.com/",
-      "organizer": "AWS",
-      "prize": "$40,000",
-      "tags": [
-        "Communication",
-        "Mobile",
-        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
@@ -424,23 +403,23 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31896",
-      "title": "Solix AI Hackathon 2026",
+      "id": "devpost-26475",
+      "title": "Dakar Bitcoin Hack by BTrust",
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-10-26",
-      "end": "2026-10-28",
-      "deadline": "2026-10-28",
-      "when_text": "Oct 26 - 28, 2026",
-      "location": "Qualcomm Institute, UC San Diego",
-      "online": false,
-      "url": "https://solix-ai-hackathon-2026.devpost.com/",
-      "organizer": "Solix ",
-      "prize": "",
+      "end": "2026-11-20",
+      "deadline": "2026-11-20",
+      "when_text": "Oct 26 - Nov 20, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
+      "organizer": "Dakar Bitcoin Days",
+      "prize": "$900",
       "tags": [
-        "Health",
-        "Machine Learning/AI",
-        "Social Good"
+        "Blockchain",
+        "Fintech",
+        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
