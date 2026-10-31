@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T12:49:37.376Z",
-  "checked": "2026-10-30T12:49:37.376Z",
+  "updated": "2026-10-31T12:22:04.038Z",
+  "checked": "2026-10-31T12:22:04.039Z",
   "sources": [
     {
       "name": "Devpost",
@@ -73,27 +73,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-30790",
-      "title": "Nebius x NVIDIA Global AI Hackathon",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-08-26",
-      "end": "2026-10-30",
-      "deadline": "2026-10-30",
-      "when_text": "Aug 26 - Oct 30, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://nebiusglobalaihackathon.devpost.com/",
-      "organizer": "nebius",
-      "prize": "$50,000",
-      "tags": [
-        "Machine Learning/AI",
-        "Beginner Friendly",
-        "Robotic Process Automation"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31024",
       "title": "Meta VR Start Developer Competition 2026",
       "type": "hackathon",
@@ -136,25 +115,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31054",
-      "title": "Qloo Agentic Hackathon",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-09-30",
-      "end": "2026-10-30",
-      "deadline": "2026-10-30",
-      "when_text": "Sep 30 - Oct 30, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://qloo.devpost.com/",
-      "organizer": "Qloo",
-      "prize": "$25,000",
-      "tags": [
-        "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31302",
       "title": "PayPal AI Hackathon",
       "type": "hackathon",
@@ -176,41 +136,22 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31626",
-      "title": "Hackathon Agéntico SoftwareChido 2026B",
+      "id": "devpost-31627",
+      "title": "Next Byte Hacks V5",
       "type": "hackathon",
       "platform": "Devpost",
-      "start": "2026-10-05",
-      "end": "2026-11-25",
-      "deadline": "2026-11-25",
-      "when_text": "Oct 05 - Nov 25, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://hackathon-agentico-2026b.devpost.com/",
-      "organizer": "ITESO",
-      "prize": "",
-      "tags": [
-        "Education",
-        "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31735",
-      "title": "AI Build India",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-14",
+      "start": "2026-10-06",
       "end": "2026-10-31",
       "deadline": "2026-10-31",
-      "when_text": "Oct 14 - 31, 2026",
-      "location": "jaipur",
-      "online": false,
-      "url": "https://sphinx-26.devpost.com/",
-      "organizer": "Hacker's Unity",
-      "prize": "",
+      "when_text": "Oct 06 - 31, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://next-byte-hacks-v5.devpost.com/",
+      "organizer": "Next Byte Hacks",
+      "prize": "$100",
       "tags": [
-        "Machine Learning/AI",
+        "Beginner Friendly",
+        "Low/No Code",
         "Open Ended"
       ],
       "source": "devpost"
@@ -466,42 +407,42 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31910",
-      "title": "Code-con",
+      "id": "devpost-31667",
+      "title": "Kiroween 2026",
       "type": "hackathon",
       "platform": "Devpost",
-      "start": "2026-10-28",
-      "end": "2026-10-30",
-      "deadline": "2026-10-30",
-      "when_text": "Oct 28 - 30, 2026",
+      "start": "2026-10-30",
+      "end": "2026-12-04",
+      "deadline": "2026-12-04",
+      "when_text": "Oct 30 - Dec 04, 2026",
       "location": "Online",
       "online": true,
-      "url": "https://code-con.devpost.com/",
-      "organizer": "Telem AI",
-      "prize": "₹ 0",
+      "url": "https://kiroween.devpost.com/",
+      "organizer": "Kiro",
+      "prize": "$100,000",
       "tags": [
-        "Blockchain",
-        "Fintech",
-        "Machine Learning/AI"
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Open Ended"
       ],
       "source": "devpost"
     },
     {
-      "id": "devpost-31760",
-      "title": "Mergetober",
+      "id": "devpost-31946",
+      "title": "Remote Control AI",
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-10-31",
-      "end": "2026-11-01",
-      "deadline": "2026-11-01",
-      "when_text": "Oct 31 - Nov 01, 2026",
+      "end": "2026-11-05",
+      "deadline": "2026-11-05",
+      "when_text": "Oct 31 - Nov 05, 2026",
       "location": "Online",
       "online": true,
-      "url": "https://mergetober.devpost.com/",
-      "organizer": "Hacker's Unity",
+      "url": "https://remote-control-ai.devpost.com/",
+      "organizer": "avacado",
       "prize": "",
       "tags": [
-        "Open Ended"
+        "Beginner Friendly"
       ],
       "source": "devpost"
     },
@@ -521,6 +462,67 @@
       "prize": "$500",
       "tags": [
         "Enterprise"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31942",
+      "title": "INCEPTION 2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "deadline": "2026-11-01",
+      "when_text": "Oct 31 - Nov 01, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://inception2026.devpost.com/",
+      "organizer": "HIMATIFA UPN \"Veteran\" Jawa Timur",
+      "prize": "",
+      "tags": [
+        "Machine Learning/AI",
+        "Mobile",
+        "Web"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31187",
+      "title": "STEMergent Hacks 2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-31",
+      "end": "2026-11-15",
+      "deadline": "2026-11-15",
+      "when_text": "Oct 31 - Nov 15, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://stemergent-hacks.devpost.com/",
+      "organizer": "STEMergent",
+      "prize": "",
+      "tags": [
+        "Low/No Code",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31760",
+      "title": "Mergetober",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "deadline": "2026-11-01",
+      "when_text": "Oct 31 - Nov 01, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://mergetober.devpost.com/",
+      "organizer": "Hacker's Unity",
+      "prize": "",
+      "tags": [
+        "Open Ended"
       ],
       "source": "devpost"
     },
