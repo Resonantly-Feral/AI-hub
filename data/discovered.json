@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-31T12:22:04.038Z",
-  "checked": "2026-10-31T12:22:04.039Z",
+  "updated": "2026-11-01T13:16:31.551Z",
+  "checked": "2026-11-01T13:16:31.551Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 30
+      "count": 29
     }
   ],
   "events": [
@@ -136,46 +136,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31627",
-      "title": "Next Byte Hacks V5",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-06",
-      "end": "2026-10-31",
-      "deadline": "2026-10-31",
-      "when_text": "Oct 06 - 31, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://next-byte-hacks-v5.devpost.com/",
-      "organizer": "Next Byte Hacks",
-      "prize": "$100",
-      "tags": [
-        "Beginner Friendly",
-        "Low/No Code",
-        "Open Ended"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31736",
-      "title": "CreateAThon",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-14",
-      "end": "2026-10-31",
-      "deadline": "2026-10-31",
-      "when_text": "Oct 14 - 31, 2026",
-      "location": "Online, from anywhere",
-      "online": true,
-      "url": "https://graph-hacks.devpost.com/",
-      "organizer": "Hacker's Unity",
-      "prize": "",
-      "tags": [
-        "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31659",
       "title": "Learn AR with SPECS",
       "type": "hackathon",
@@ -193,27 +153,6 @@
         "AR/VR",
         "Machine Learning/AI",
         "Design"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31694",
-      "title": "MineArena 1.0",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-15",
-      "end": "2026-10-31",
-      "deadline": "2026-10-31",
-      "when_text": "Oct 15 - 31, 2026",
-      "location": "SSM cultural centre",
-      "online": false,
-      "url": "https://minearena-1-0.devpost.com/",
-      "organizer": "Code commit",
-      "prize": "₹ 75,000",
-      "tags": [
-        "Machine Learning/AI",
-        "Fintech",
-        "Health"
       ],
       "source": "devpost"
     },
@@ -447,27 +386,8 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31616",
-      "title": "Zoftware Hackathon",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-31",
-      "end": "2026-10-31",
-      "deadline": "2026-10-31",
-      "when_text": "Oct 31, 2026",
-      "location": "Spring House Workspaces SHGU001",
-      "online": false,
-      "url": "https://zoftware-agenthack.devpost.com/",
-      "organizer": "zoftwarehub",
-      "prize": "$500",
-      "tags": [
-        "Enterprise"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31942",
-      "title": "INCEPTION 2026",
+      "id": "devpost-31841",
+      "title": "Global AI Hackathon - Devcon 2026 By Mel",
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-10-31",
@@ -476,12 +396,33 @@
       "when_text": "Oct 31 - Nov 01, 2026",
       "location": "Online",
       "online": true,
-      "url": "https://inception2026.devpost.com/",
-      "organizer": "HIMATIFA UPN \"Veteran\" Jawa Timur",
+      "url": "https://trick-or-build.devpost.com/",
+      "organizer": "Agentic Day (co-hosted with Mel)",
       "prize": "",
       "tags": [
+        "Beginner Friendly",
         "Machine Learning/AI",
-        "Mobile",
+        "Productivity"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31779",
+      "title": "TRMI X Lovhack : Multiplayer Everything Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "deadline": "2026-11-01",
+      "when_text": "Oct 31 - Nov 01, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://lovhack-trmi-2026.devpost.com/",
+      "organizer": "Lovhack",
+      "prize": "$300",
+      "tags": [
+        "Machine Learning/AI",
+        "Open Ended",
         "Web"
       ],
       "source": "devpost"
@@ -508,21 +449,65 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31760",
-      "title": "Mergetober",
+      "id": "devpost-31719",
+      "title": "Scope-AI-Thon 2026 - AI for Detection of Acute Patient Deterioration",
       "type": "hackathon",
       "platform": "Devpost",
-      "start": "2026-10-31",
-      "end": "2026-11-01",
-      "deadline": "2026-11-01",
-      "when_text": "Oct 31 - Nov 01, 2026",
+      "start": "2026-11-01",
+      "end": "2026-11-14",
+      "deadline": "2026-11-14",
+      "when_text": "Nov 01 - 14, 2026",
       "location": "Online",
       "online": true,
-      "url": "https://mergetober.devpost.com/",
-      "organizer": "Hacker's Unity",
+      "url": "https://scope-ai-thon-2026.devpost.com/",
+      "organizer": "mcgill university",
+      "prize": "$CAD 1,400",
+      "tags": [
+        "Design",
+        "Health",
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31580",
+      "title": "Ostad Presents YUNet AIgnite Buildathon 2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-01",
+      "end": "2026-11-05",
+      "deadline": "2026-11-05",
+      "when_text": "Nov 01 - 05, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://yunet-aignite26.devpost.com/",
+      "organizer": "Youth Upskill Network - YUNet",
       "prize": "",
       "tags": [
-        "Open Ended"
+        "Education",
+        "Low/No Code",
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31060",
+      "title": "Agentic Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-01",
+      "end": "2026-11-10",
+      "deadline": "2026-11-10",
+      "when_text": "Nov 01 - 10, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://agentic-hackathon.devpost.com/",
+      "organizer": "Devin",
+      "prize": "$480",
+      "tags": [
+        "Machine Learning/AI",
+        "Open Ended",
+        "Web"
       ],
       "source": "devpost"
     },
