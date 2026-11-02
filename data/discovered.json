@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T13:16:31.551Z",
-  "checked": "2026-11-01T13:16:31.551Z",
+  "updated": "2026-11-02T15:43:32.871Z",
+  "checked": "2026-11-02T15:43:32.871Z",
   "sources": [
     {
       "name": "Devpost",
@@ -178,27 +178,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31737",
-      "title": "HackWithAditya",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-16",
-      "end": "2026-11-25",
-      "deadline": "2026-11-25",
-      "when_text": "Oct 16 - Nov 25, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://hackwithaditya.devpost.com/",
-      "organizer": "Aditya University",
-      "prize": "₹ 500,000",
-      "tags": [
-        "Education",
-        "Health",
-        "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31789",
       "title": "STEM2Connect AI Hackathon",
       "type": "hackathon",
@@ -278,27 +257,6 @@
       "tags": [
         "Communication",
         "Gaming",
-        "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-26475",
-      "title": "Dakar Bitcoin Hack by BTrust",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-26",
-      "end": "2026-11-20",
-      "deadline": "2026-11-20",
-      "when_text": "Oct 26 - Nov 20, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-      "organizer": "Dakar Bitcoin Days",
-      "prize": "$900",
-      "tags": [
-        "Blockchain",
-        "Fintech",
         "Machine Learning/AI"
       ],
       "source": "devpost"
@@ -386,48 +344,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31841",
-      "title": "Global AI Hackathon - Devcon 2026 By Mel",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-31",
-      "end": "2026-11-01",
-      "deadline": "2026-11-01",
-      "when_text": "Oct 31 - Nov 01, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://trick-or-build.devpost.com/",
-      "organizer": "Agentic Day (co-hosted with Mel)",
-      "prize": "",
-      "tags": [
-        "Beginner Friendly",
-        "Machine Learning/AI",
-        "Productivity"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31779",
-      "title": "TRMI X Lovhack : Multiplayer Everything Hackathon",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-31",
-      "end": "2026-11-01",
-      "deadline": "2026-11-01",
-      "when_text": "Oct 31 - Nov 01, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://lovhack-trmi-2026.devpost.com/",
-      "organizer": "Lovhack",
-      "prize": "$300",
-      "tags": [
-        "Machine Learning/AI",
-        "Open Ended",
-        "Web"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31187",
       "title": "STEMergent Hacks 2026",
       "type": "hackathon",
@@ -445,6 +361,27 @@
         "Low/No Code",
         "Machine Learning/AI",
         "Social Good"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31825",
+      "title": "FSB AI Build-a-thon Event 02",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-01",
+      "end": "2026-11-03",
+      "deadline": "2026-11-03",
+      "when_text": "Nov 01 - 03, 2026",
+      "location": "Farmer School of Business",
+      "online": false,
+      "url": "https://fsb-ai-buildathon-02.devpost.com/",
+      "organizer": "Farmer School of Business, Miami Univers",
+      "prize": "$500",
+      "tags": [
+        "Beginner Friendly",
+        "Low/No Code",
+        "Open Ended"
       ],
       "source": "devpost"
     },
@@ -512,6 +449,27 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-31642",
+      "title": "AWS MSP AI Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-02",
+      "end": "2026-12-11",
+      "deadline": "2026-12-11",
+      "when_text": "Nov 02 - Dec 11, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://aws-agentic-msp.devpost.com/",
+      "organizer": "AWS",
+      "prize": "$64,000",
+      "tags": [
+        "Machine Learning/AI",
+        "Productivity",
+        "Web"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-31811",
       "title": "BDBI x SpaceXSI Grokathon",
       "type": "hackathon",
@@ -529,6 +487,27 @@
         "Machine Learning/AI",
         "Open Ended",
         "Social Good"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31489",
+      "title": "EthnoHack",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-02",
+      "end": "2026-11-08",
+      "deadline": "2026-11-08",
+      "when_text": "Nov 02 - 08, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://ethnohack2026.devpost.com/",
+      "organizer": "ETHCSTWIN",
+      "prize": "€8,000",
+      "tags": [
+        "Databases",
+        "Health",
+        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
@@ -571,6 +550,27 @@
         "Machine Learning/AI",
         "Open Ended",
         "Enterprise"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31746",
+      "title": "University Blockchain Conference Hackathon 2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-13",
+      "end": "2026-11-20",
+      "deadline": "2026-11-20",
+      "when_text": "Nov 13 - 20, 2026",
+      "location": "University of Texas at Austin",
+      "online": false,
+      "url": "https://ubc-hackathon-2026.devpost.com/",
+      "organizer": "college.xyz",
+      "prize": "$22,000",
+      "tags": [
+        "Blockchain",
+        "Fintech",
+        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
