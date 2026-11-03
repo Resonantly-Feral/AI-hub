@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-02T15:43:32.871Z",
-  "checked": "2026-11-02T15:43:32.871Z",
+  "updated": "2026-11-03T14:07:25.999Z",
+  "checked": "2026-11-03T14:07:25.999Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 29
+      "count": 30
     }
   ],
   "events": [
@@ -94,27 +94,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31400",
-      "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-09-29",
-      "end": "2026-11-02",
-      "deadline": "2026-11-02",
-      "when_text": "Sep 29 - Nov 02, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
-      "organizer": "Perfect Corp",
-      "prize": "$6,000",
-      "tags": [
-        "AR/VR",
-        "E-commerce/Retail",
-        "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31302",
       "title": "PayPal AI Hackathon",
       "type": "hackathon",
@@ -132,6 +111,27 @@
         "Low/No Code",
         "Machine Learning/AI",
         "Web"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31627",
+      "title": "Next Byte Hacks V5",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-06",
+      "end": "2026-11-07",
+      "deadline": "2026-11-07",
+      "when_text": "Oct 06 - Nov 07, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://next-byte-hacks-v5.devpost.com/",
+      "organizer": "Next Byte Hacks",
+      "prize": "$100",
+      "tags": [
+        "Beginner Friendly",
+        "Low/No Code",
+        "Open Ended"
       ],
       "source": "devpost"
     },
@@ -241,22 +241,22 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31742",
-      "title": "Codex x TwitchCon Hackathon",
+      "id": "devpost-26475",
+      "title": "Dakar Bitcoin Hack by BTrust",
       "type": "hackathon",
       "platform": "Devpost",
-      "start": "2026-10-23",
-      "end": "2026-11-02",
-      "deadline": "2026-11-02",
-      "when_text": "Oct 23 - Nov 02, 2026",
+      "start": "2026-10-26",
+      "end": "2026-11-20",
+      "deadline": "2026-11-20",
+      "when_text": "Oct 26 - Nov 20, 2026",
       "location": "Online",
       "online": true,
-      "url": "https://twitchcon-codex.devpost.com/",
-      "organizer": "Twitch",
-      "prize": "$25,000",
+      "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
+      "organizer": "Dakar Bitcoin Days",
+      "prize": "$900",
       "tags": [
-        "Communication",
-        "Gaming",
+        "Blockchain",
+        "Fintech",
         "Machine Learning/AI"
       ],
       "source": "devpost"
@@ -470,23 +470,23 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31811",
-      "title": "BDBI x SpaceXSI Grokathon",
+      "id": "devpost-31083",
+      "title": "QNX Global Hackathon",
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-11-02",
-      "end": "2026-11-02",
-      "deadline": "2026-11-02",
-      "when_text": "Nov 02, 2026",
+      "end": "2026-12-15",
+      "deadline": "2026-12-15",
+      "when_text": "Nov 02 - Dec 15, 2026",
       "location": "Online",
       "online": true,
-      "url": "https://bdbi-x-spacexsi.devpost.com/",
-      "organizer": "SpaceXSI",
-      "prize": "",
+      "url": "https://qnx.devpost.com/",
+      "organizer": "QNX",
+      "prize": "$50,000",
       "tags": [
+        "IoT",
         "Machine Learning/AI",
-        "Open Ended",
-        "Social Good"
+        "Open Ended"
       ],
       "source": "devpost"
     },
@@ -507,6 +507,26 @@
       "tags": [
         "Databases",
         "Health",
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31815",
+      "title": "Neural Storm",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-02",
+      "end": "2026-11-04",
+      "deadline": "2026-11-04",
+      "when_text": "Nov 02 - 04, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://neuralstorm.devpost.com/",
+      "organizer": "JNTUH",
+      "prize": "₹ 20,000",
+      "tags": [
+        "Beginner Friendly",
         "Machine Learning/AI"
       ],
       "source": "devpost"
