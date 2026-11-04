@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-03T14:07:25.999Z",
-  "checked": "2026-11-03T14:07:25.999Z",
+  "updated": "2026-11-04T14:28:06.988Z",
+  "checked": "2026-11-04T14:28:06.988Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 30
+      "count": 29
     }
   ],
   "events": [
@@ -111,27 +111,6 @@
         "Low/No Code",
         "Machine Learning/AI",
         "Web"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31627",
-      "title": "Next Byte Hacks V5",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-06",
-      "end": "2026-11-07",
-      "deadline": "2026-11-07",
-      "when_text": "Oct 06 - Nov 07, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://next-byte-hacks-v5.devpost.com/",
-      "organizer": "Next Byte Hacks",
-      "prize": "$100",
-      "tags": [
-        "Beginner Friendly",
-        "Low/No Code",
-        "Open Ended"
       ],
       "source": "devpost"
     },
@@ -365,27 +344,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31825",
-      "title": "FSB AI Build-a-thon Event 02",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-11-01",
-      "end": "2026-11-03",
-      "deadline": "2026-11-03",
-      "when_text": "Nov 01 - 03, 2026",
-      "location": "Farmer School of Business",
-      "online": false,
-      "url": "https://fsb-ai-buildathon-02.devpost.com/",
-      "organizer": "Farmer School of Business, Miami Univers",
-      "prize": "$500",
-      "tags": [
-        "Beginner Friendly",
-        "Low/No Code",
-        "Open Ended"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31719",
       "title": "Scope-AI-Thon 2026 - AI for Detection of Acute Patient Deterioration",
       "type": "hackathon",
@@ -445,6 +403,27 @@
         "Machine Learning/AI",
         "Open Ended",
         "Web"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31960",
+      "title": "ML Empowerment Build Challenge 4.0",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-01",
+      "end": "2026-12-02",
+      "deadline": "2026-12-02",
+      "when_text": "Nov 01 - Dec 02, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://ml-build-challenge-4.devpost.com/",
+      "organizer": "ML Empowerment Foundation",
+      "prize": "",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Social Good"
       ],
       "source": "devpost"
     },
@@ -517,9 +496,9 @@
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-11-02",
-      "end": "2026-11-04",
-      "deadline": "2026-11-04",
-      "when_text": "Nov 02 - 04, 2026",
+      "end": "2026-11-05",
+      "deadline": "2026-11-05",
+      "when_text": "Nov 02 - 05, 2026",
       "location": "Online",
       "online": true,
       "url": "https://neuralstorm.devpost.com/",
@@ -544,7 +523,7 @@
       "online": true,
       "url": "https://ai-agents-founders-hetic-26.devpost.com/",
       "organizer": "HETIC",
-      "prize": "€997",
+      "prize": "€1,000",
       "tags": [
         "Low/No Code",
         "Machine Learning/AI",
