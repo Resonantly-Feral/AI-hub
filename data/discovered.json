@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T14:28:06.988Z",
-  "checked": "2026-11-04T14:28:06.988Z",
+  "updated": "2026-11-05T14:35:08.094Z",
+  "checked": "2026-11-05T14:35:08.094Z",
   "sources": [
     {
       "name": "Devpost",
@@ -220,27 +220,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-26475",
-      "title": "Dakar Bitcoin Hack by BTrust",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-26",
-      "end": "2026-11-20",
-      "deadline": "2026-11-20",
-      "when_text": "Oct 26 - Nov 20, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-      "organizer": "Dakar Bitcoin Days",
-      "prize": "$900",
-      "tags": [
-        "Blockchain",
-        "Fintech",
-        "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31907",
       "title": "Build Your First AI App",
       "type": "hackathon",
@@ -407,27 +386,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31960",
-      "title": "ML Empowerment Build Challenge 4.0",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-11-01",
-      "end": "2026-12-02",
-      "deadline": "2026-12-02",
-      "when_text": "Nov 01 - Dec 02, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://ml-build-challenge-4.devpost.com/",
-      "organizer": "ML Empowerment Foundation",
-      "prize": "",
-      "tags": [
-        "Beginner Friendly",
-        "Machine Learning/AI",
-        "Social Good"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31642",
       "title": "AWS MSP AI Hackathon",
       "type": "hackathon",
@@ -491,26 +449,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31815",
-      "title": "Neural Storm",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-11-02",
-      "end": "2026-11-05",
-      "deadline": "2026-11-05",
-      "when_text": "Nov 02 - 05, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://neuralstorm.devpost.com/",
-      "organizer": "JNTUH",
-      "prize": "₹ 20,000",
-      "tags": [
-        "Beginner Friendly",
-        "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31480",
       "title": "AI Agents for Founders Challenge — HETIC 2026",
       "type": "hackathon",
@@ -532,6 +470,48 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-32009",
+      "title": "AI for Medicine: A Global Student Hackathon on the Future of Care",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-04",
+      "end": "2026-12-04",
+      "deadline": "2026-12-04",
+      "when_text": "Nov 04 - Dec 04, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://ai-for-medicine.devpost.com/",
+      "organizer": "Open Health AI Collective",
+      "prize": "",
+      "tags": [
+        "Beginner Friendly",
+        "Health",
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31994",
+      "title": "AI OpenBuild",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-05",
+      "end": "2026-12-10",
+      "deadline": "2026-12-10",
+      "when_text": "Nov 05 - Dec 10, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://ai-openbuild.devpost.com/",
+      "organizer": "AI OpenBuild",
+      "prize": "$150",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Open Ended"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-30516",
       "title": "Since AI 2026",
       "type": "hackathon",
@@ -549,6 +529,27 @@
         "Machine Learning/AI",
         "Open Ended",
         "Enterprise"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31972",
+      "title": "SLAY HACKS",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-07",
+      "end": "2026-11-13",
+      "deadline": "2026-11-13",
+      "when_text": "Nov 07 - 13, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://slayy-hacks.devpost.com/",
+      "organizer": "cite & slayy",
+      "prize": "$4,500",
+      "tags": [
+        "Beginner Friendly",
+        "Open Ended",
+        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
