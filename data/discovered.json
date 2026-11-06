@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-05T14:35:08.094Z",
-  "checked": "2026-11-05T14:35:08.094Z",
+  "updated": "2026-11-06T14:13:03.091Z",
+  "checked": "2026-11-06T14:13:03.091Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 29
+      "count": 30
     }
   ],
   "events": [
@@ -220,6 +220,27 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-26475",
+      "title": "Dakar Bitcoin Hack by BTrust",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-10-26",
+      "end": "2026-11-20",
+      "deadline": "2026-11-20",
+      "when_text": "Oct 26 - Nov 20, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
+      "organizer": "Dakar Bitcoin Days",
+      "prize": "$900",
+      "tags": [
+        "Blockchain",
+        "Fintech",
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-31907",
       "title": "Build Your First AI App",
       "type": "hackathon",
@@ -283,25 +304,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31946",
-      "title": "Remote Control AI",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-31",
-      "end": "2026-11-05",
-      "deadline": "2026-11-05",
-      "when_text": "Oct 31 - Nov 05, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://remote-control-ai.devpost.com/",
-      "organizer": "avacado",
-      "prize": "",
-      "tags": [
-        "Beginner Friendly"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31187",
       "title": "STEMergent Hacks 2026",
       "type": "hackathon",
@@ -339,27 +341,6 @@
       "tags": [
         "Design",
         "Health",
-        "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31580",
-      "title": "Ostad Presents YUNet AIgnite Buildathon 2026",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-11-01",
-      "end": "2026-11-05",
-      "deadline": "2026-11-05",
-      "when_text": "Nov 01 - 05, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://yunet-aignite26.devpost.com/",
-      "organizer": "Youth Upskill Network - YUNet",
-      "prize": "",
-      "tags": [
-        "Education",
-        "Low/No Code",
         "Machine Learning/AI"
       ],
       "source": "devpost"
@@ -512,6 +493,46 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-32023",
+      "title": "IBM Db2Hack 2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-05",
+      "end": "2026-11-10",
+      "deadline": "2026-11-10",
+      "when_text": "Nov 05 - 10, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://ibm-db2hack-2026.devpost.com/",
+      "organizer": "IBM",
+      "prize": "₹ 0",
+      "tags": [
+        "Databases"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31948",
+      "title": "Build, Demo, and Take Home a Working AI Support Bot",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-06",
+      "end": "2026-11-12",
+      "deadline": "2026-11-12",
+      "when_text": "Nov 06 - 12, 2026",
+      "location": "eGain Corp.",
+      "online": false,
+      "url": "https://build-a-working-ai-support-bot.devpost.com/",
+      "organizer": "egain",
+      "prize": "$750",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Productivity"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-30516",
       "title": "Since AI 2026",
       "type": "hackathon",
@@ -538,9 +559,9 @@
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-11-07",
-      "end": "2026-11-13",
-      "deadline": "2026-11-13",
-      "when_text": "Nov 07 - 13, 2026",
+      "end": "2026-12-07",
+      "deadline": "2026-12-07",
+      "when_text": "Nov 07 - Dec 07, 2026",
       "location": "Online",
       "online": true,
       "url": "https://slayy-hacks.devpost.com/",
