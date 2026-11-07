@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-06T14:13:03.091Z",
-  "checked": "2026-11-06T14:13:03.091Z",
+  "updated": "2026-11-07T12:55:54.358Z",
+  "checked": "2026-11-07T12:55:54.358Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 30
+      "count": 32
     }
   ],
   "events": [
@@ -216,27 +216,6 @@
         "Lifehacks",
         "Machine Learning/AI",
         "Productivity"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-26475",
-      "title": "Dakar Bitcoin Hack by BTrust",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-26",
-      "end": "2026-11-20",
-      "deadline": "2026-11-20",
-      "when_text": "Oct 26 - Nov 20, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-      "organizer": "Dakar Bitcoin Days",
-      "prize": "$900",
-      "tags": [
-        "Blockchain",
-        "Fintech",
-        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
@@ -512,6 +491,25 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-31975",
+      "title": "Triangle AI Hackathon 2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-06",
+      "end": "2026-11-08",
+      "deadline": "2026-11-08",
+      "when_text": "Nov 06 - 08, 2026",
+      "location": "Wilkinson Building, Duke University",
+      "online": false,
+      "url": "https://triangle-ai-hackathon-2026.devpost.com/",
+      "organizer": "Duke University",
+      "prize": "",
+      "tags": [
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-31948",
       "title": "Build, Demo, and Take Home a Working AI Support Bot",
       "type": "hackathon",
@@ -533,23 +531,23 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-30516",
-      "title": "Since AI 2026",
+      "id": "devpost-31057",
+      "title": "Technology x Health: Amador Valley Girls Who Code Hackathon",
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-11-06",
-      "end": "2026-11-08",
-      "deadline": "2026-11-08",
-      "when_text": "Nov 06 - 08, 2026",
-      "location": "Kupittaa Campus, Turku",
-      "online": false,
-      "url": "https://sinceai2026.devpost.com/",
-      "organizer": "Since AI ry",
-      "prize": "€50,000",
+      "end": "2026-11-16",
+      "deadline": "2026-11-16",
+      "when_text": "Nov 06 - 16, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://ai-x-health-hackathon-avgwc.devpost.com/",
+      "organizer": "Amador Valley Girls Who Code",
+      "prize": "",
       "tags": [
-        "Machine Learning/AI",
-        "Open Ended",
-        "Enterprise"
+        "Beginner Friendly",
+        "Health",
+        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
@@ -571,6 +569,27 @@
         "Beginner Friendly",
         "Open Ended",
         "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31977",
+      "title": "NYCAIRR × HackBU 2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "deadline": "2026-11-08",
+      "when_text": "Nov 07 - 08, 2026",
+      "location": "Binghamton University – Innovation Lab",
+      "online": false,
+      "url": "https://nycairrhackbu2026.devpost.com/",
+      "organizer": "HackBU",
+      "prize": "$6,000",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Social Good"
       ],
       "source": "devpost"
     },
@@ -633,6 +652,26 @@
         "Beginner Friendly",
         "Low/No Code",
         "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31148",
+      "title": "KeanUHackThis 2027",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2027-04-02",
+      "end": "2027-04-03",
+      "deadline": "2027-04-03",
+      "when_text": "Apr 02 - 03, 2027",
+      "location": "Online",
+      "online": true,
+      "url": "https://keauhackthis-2027.devpost.com/",
+      "organizer": "Kean University",
+      "prize": "",
+      "tags": [
+        "Machine Learning/AI",
+        "Web"
       ],
       "source": "devpost"
     }
