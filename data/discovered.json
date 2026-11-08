@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T12:55:54.358Z",
-  "checked": "2026-11-07T12:55:54.358Z",
+  "updated": "2026-11-08T13:18:46.036Z",
+  "checked": "2026-11-08T13:18:46.036Z",
   "sources": [
     {
       "name": "Devpost",
@@ -132,27 +132,6 @@
         "AR/VR",
         "Machine Learning/AI",
         "Design"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31666",
-      "title": "Mathematics for systems security",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-16",
-      "end": "2026-11-15",
-      "deadline": "2026-11-15",
-      "when_text": "Oct 16 - Nov 15, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://mathematics-systems-security.devpost.com/",
-      "organizer": "Software Engineering Club (DEV)",
-      "prize": "",
-      "tags": [
-        "Communication",
-        "Cybersecurity",
-        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
@@ -552,23 +531,23 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31972",
-      "title": "SLAY HACKS",
+      "id": "devpost-32008",
+      "title": "TAMU Datathon 26: Casino Royale",
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-11-07",
-      "end": "2026-12-07",
-      "deadline": "2026-12-07",
-      "when_text": "Nov 07 - Dec 07, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://slayy-hacks.devpost.com/",
-      "organizer": "cite & slayy",
-      "prize": "$4,500",
+      "end": "2026-11-08",
+      "deadline": "2026-11-08",
+      "when_text": "Nov 07 - 08, 2026",
+      "location": "MSC Bethancourt Ballroom",
+      "online": false,
+      "url": "https://tamu-datathon-26-casino-royale.devpost.com/",
+      "organizer": "TAMU Datathon",
+      "prize": "",
       "tags": [
         "Beginner Friendly",
-        "Open Ended",
-        "Machine Learning/AI"
+        "Machine Learning/AI",
+        "Open Ended"
       ],
       "source": "devpost"
     },
@@ -590,6 +569,27 @@
         "Beginner Friendly",
         "Machine Learning/AI",
         "Social Good"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31972",
+      "title": "SLAY HACKS",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-07",
+      "end": "2026-12-07",
+      "deadline": "2026-12-07",
+      "when_text": "Nov 07 - Dec 07, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://slayy-hacks.devpost.com/",
+      "organizer": "cite & slayy",
+      "prize": "$4,500",
+      "tags": [
+        "Beginner Friendly",
+        "Open Ended",
+        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
