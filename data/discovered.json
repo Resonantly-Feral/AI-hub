@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T16:11:02.710Z",
-  "checked": "2026-11-09T16:11:02.710Z",
+  "updated": "2026-11-10T14:49:31.876Z",
+  "checked": "2026-11-10T14:49:31.876Z",
   "sources": [
     {
       "name": "Devpost",
@@ -115,23 +115,23 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31659",
-      "title": "Learn AR with SPECS",
+      "id": "devpost-31666",
+      "title": "Mathematics for systems security",
       "type": "hackathon",
       "platform": "Devpost",
-      "start": "2026-10-15",
-      "end": "2026-11-09",
-      "deadline": "2026-11-09",
-      "when_text": "Oct 15 - Nov 09, 2026",
+      "start": "2026-10-16",
+      "end": "2026-11-15",
+      "deadline": "2026-11-15",
+      "when_text": "Oct 16 - Nov 15, 2026",
       "location": "Online",
       "online": true,
-      "url": "https://learn-specs.devpost.com/",
-      "organizer": "Devpost",
-      "prize": "$2,500",
+      "url": "https://mathematics-systems-security.devpost.com/",
+      "organizer": "Software Engineering Club (DEV)",
+      "prize": "",
       "tags": [
-        "AR/VR",
-        "Machine Learning/AI",
-        "Design"
+        "Communication",
+        "Cybersecurity",
+        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
@@ -330,9 +330,9 @@
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-11-01",
-      "end": "2026-11-10",
-      "deadline": "2026-11-10",
-      "when_text": "Nov 01 - 10, 2026",
+      "end": "2026-11-11",
+      "deadline": "2026-11-11",
+      "when_text": "Nov 01 - 11, 2026",
       "location": "Online",
       "online": true,
       "url": "https://agentic-hackathon.devpost.com/",
@@ -472,25 +472,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-32023",
-      "title": "IBM Db2Hack 2026",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-11-05",
-      "end": "2026-11-10",
-      "deadline": "2026-11-10",
-      "when_text": "Nov 05 - 10, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://ibm-db2hack-2026.devpost.com/",
-      "organizer": "IBM",
-      "prize": "₹ 0",
-      "tags": [
-        "Databases"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31948",
       "title": "Build, Demo, and Take Home a Working AI Support Bot",
       "type": "hackathon",
@@ -533,6 +514,27 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-31831",
+      "title": "Ctrl+V Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-06",
+      "end": "2026-11-10",
+      "deadline": "2026-11-10",
+      "when_text": "Nov 06 - 10, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://ctrl-v-hackathon-31831.devpost.com/",
+      "organizer": "ADHAYAN",
+      "prize": "$28,000",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-31972",
       "title": "SLAY HACKS",
       "type": "hackathon",
@@ -554,23 +556,23 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31808",
-      "title": "#BuildHybridAI 2026",
+      "id": "devpost-31973",
+      "title": "Deck the Pixels",
       "type": "hackathon",
       "platform": "Devpost",
-      "start": "2026-11-09",
-      "end": "2026-11-30",
-      "deadline": "2026-11-30",
-      "when_text": "Nov 09 - 30, 2026",
+      "start": "2026-11-10",
+      "end": "2026-12-07",
+      "deadline": "2026-12-07",
+      "when_text": "Nov 10 - Dec 07, 2026",
       "location": "Online",
       "online": true,
-      "url": "https://firebasehybridaihackathon.devpost.com/",
+      "url": "https://deckthepixels.devpost.com/",
       "organizer": "Google",
-      "prize": "$30,000",
+      "prize": "$25,000",
       "tags": [
+        "Design",
         "Machine Learning/AI",
-        "Mobile",
-        "Web"
+        "Low/No Code"
       ],
       "source": "devpost"
     },
@@ -624,7 +626,7 @@
       "end": "2026-11-14",
       "deadline": "2026-11-14",
       "when_text": "Nov 14, 2026",
-      "location": "Station 3",
+      "location": "XDC Tech",
       "online": false,
       "url": "https://ground-truth-you-hack.devpost.com/",
       "organizer": "localhost-nyc",
