@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T15:08:12.824Z",
-  "checked": "2026-11-12T15:08:12.824Z",
+  "updated": "2026-11-13T14:30:40.856Z",
+  "checked": "2026-11-13T14:30:40.857Z",
   "sources": [
     {
       "name": "Devpost",
@@ -94,23 +94,23 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31302",
-      "title": "PayPal AI Hackathon",
+      "id": "devpost-31666",
+      "title": "Mathematics for systems security",
       "type": "hackathon",
       "platform": "Devpost",
-      "start": "2026-10-01",
-      "end": "2026-11-12",
-      "deadline": "2026-11-12",
-      "when_text": "Oct 01 - Nov 12, 2026",
+      "start": "2026-10-16",
+      "end": "2026-11-15",
+      "deadline": "2026-11-15",
+      "when_text": "Oct 16 - Nov 15, 2026",
       "location": "Online",
       "online": true,
-      "url": "https://paypalaihackathon.devpost.com/",
-      "organizer": "PayPal",
-      "prize": "$67,500",
+      "url": "https://mathematics-systems-security.devpost.com/",
+      "organizer": "Software Engineering Club (DEV)",
+      "prize": "",
       "tags": [
-        "Low/No Code",
-        "Machine Learning/AI",
-        "Web"
+        "Communication",
+        "Cybersecurity",
+        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
@@ -430,27 +430,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31948",
-      "title": "Build, Demo, and Take Home a Working AI Support Bot",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-11-06",
-      "end": "2026-11-12",
-      "deadline": "2026-11-12",
-      "when_text": "Nov 06 - 12, 2026",
-      "location": "eGain Corp.",
-      "online": false,
-      "url": "https://build-a-working-ai-support-bot.devpost.com/",
-      "organizer": "egain",
-      "prize": "$750",
-      "tags": [
-        "Beginner Friendly",
-        "Machine Learning/AI",
-        "Productivity"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31057",
       "title": "Technology x Health: Amador Valley Girls Who Code Hackathon",
       "type": "hackathon",
@@ -618,6 +597,26 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-31966",
+      "title": "Engage Test",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-13",
+      "end": "2026-11-15",
+      "deadline": "2026-11-15",
+      "when_text": "Nov 13 - 15, 2026",
+      "location": "Dubai",
+      "online": false,
+      "url": "https://engage-test.devpost.com/",
+      "organizer": "Engage Group",
+      "prize": "$20",
+      "tags": [
+        "Machine Learning/AI",
+        "Productivity"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-31746",
       "title": "University Blockchain Conference Hackathon 2026",
       "type": "hackathon",
@@ -671,7 +670,7 @@
       "online": false,
       "url": "https://ground-truth-you-hack.devpost.com/",
       "organizer": "localhost-nyc",
-      "prize": "$650",
+      "prize": "$900",
       "tags": [
         "Machine Learning/AI",
         "Web"
