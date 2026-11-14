@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T14:30:40.856Z",
-  "checked": "2026-11-13T14:30:40.857Z",
+  "updated": "2026-11-14T13:27:34.660Z",
+  "checked": "2026-11-14T13:27:34.661Z",
   "sources": [
     {
       "name": "Devpost",
@@ -52,27 +52,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-30764",
-      "title": "Syntax Summit",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-07-18",
-      "end": "2027-01-14",
-      "deadline": "2027-01-14",
-      "when_text": "Jul 18, 2026 - Jan 14, 2027",
-      "location": "Online",
-      "online": true,
-      "url": "https://syntax-summit.devpost.com/",
-      "organizer": "Student Organization",
-      "prize": "",
-      "tags": [
-        "DevOps",
-        "Machine Learning/AI",
-        "Robotic Process Automation"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31024",
       "title": "Meta VR Start Developer Competition 2026",
       "type": "hackathon",
@@ -90,27 +69,6 @@
         "AR/VR",
         "Machine Learning/AI",
         "Web"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31666",
-      "title": "Mathematics for systems security",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-16",
-      "end": "2026-11-15",
-      "deadline": "2026-11-15",
-      "when_text": "Oct 16 - Nov 15, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://mathematics-systems-security.devpost.com/",
-      "organizer": "Software Engineering Club (DEV)",
-      "prize": "",
-      "tags": [
-        "Communication",
-        "Cybersecurity",
-        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
@@ -174,27 +132,6 @@
         "Lifehacks",
         "Machine Learning/AI",
         "Productivity"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-26475",
-      "title": "Dakar Bitcoin Hack by BTrust",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-26",
-      "end": "2026-11-20",
-      "deadline": "2026-11-20",
-      "when_text": "Oct 26 - Nov 20, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-      "organizer": "Dakar Bitcoin Days",
-      "prize": "$900",
-      "tags": [
-        "Blockchain",
-        "Fintech",
-        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
@@ -299,27 +236,6 @@
       "tags": [
         "Design",
         "Health",
-        "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31787",
-      "title": "GenHacks",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-11-01",
-      "end": "2026-12-26",
-      "deadline": "2026-12-26",
-      "when_text": "Nov 01 - Dec 26, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://genhacks-open.devpost.com/",
-      "organizer": "Shail & Sharaf",
-      "prize": "$CAD 1,050",
-      "tags": [
-        "Beginner Friendly",
-        "IoT",
         "Machine Learning/AI"
       ],
       "source": "devpost"
@@ -556,26 +472,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31644",
-      "title": "Reddit’s Game of the Day Hackathon",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-11-11",
-      "end": "2026-12-08",
-      "deadline": "2026-12-08",
-      "when_text": "Nov 11 - Dec 08, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://redditgameofday2026.devpost.com/",
-      "organizer": "reddit",
-      "prize": "$35,000",
-      "tags": [
-        "Beginner Friendly",
-        "Gaming"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-32026",
       "title": "Open Agentic Web Challenge",
       "type": "hackathon",
@@ -597,22 +493,86 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31966",
-      "title": "Engage Test",
+      "id": "devpost-31657",
+      "title": "EVOLVE: 8090 AI Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-13",
+      "end": "2026-11-14",
+      "deadline": "2026-11-14",
+      "when_text": "Nov 13 - 14, 2026",
+      "location": "8090 office",
+      "online": false,
+      "url": "https://evolve-8090.devpost.com/",
+      "organizer": "8090",
+      "prize": "",
+      "tags": [
+        "DevOps",
+        "Enterprise",
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31765",
+      "title": "GTransformer AI Buildathon 2026 — AI for Global Good",
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-11-13",
       "end": "2026-11-15",
       "deadline": "2026-11-15",
       "when_text": "Nov 13 - 15, 2026",
-      "location": "Dubai",
-      "online": false,
-      "url": "https://engage-test.devpost.com/",
-      "organizer": "Engage Group",
-      "prize": "$20",
+      "location": "Milpitas, Bay Area + Online",
+      "online": true,
+      "url": "https://gtransformer-buildathon-2026.devpost.com/",
+      "organizer": "GTransformer Foundation",
+      "prize": "$1,000",
       "tags": [
+        "Education",
         "Machine Learning/AI",
-        "Productivity"
+        "Social Good"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-32074",
+      "title": "Kearney PERLab x Velocity AI Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-13",
+      "end": "2026-11-15",
+      "deadline": "2026-11-15",
+      "when_text": "Nov 13 - 15, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://kearney-x-velocity-ai.devpost.com/",
+      "organizer": "kearney",
+      "prize": "$15,000",
+      "tags": [
+        "Beginner Friendly",
+        "Enterprise",
+        "Open Ended"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-32006",
+      "title": "HackUMass XIV",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-13",
+      "end": "2026-11-15",
+      "deadline": "2026-11-15",
+      "when_text": "Nov 13 - 15, 2026",
+      "location": "Integrative Learning Center",
+      "online": false,
+      "url": "https://hackumass-xiv.devpost.com/",
+      "organizer": "HackUMass",
+      "prize": "",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Web"
       ],
       "source": "devpost"
     },
@@ -634,6 +594,46 @@
         "Blockchain",
         "Fintech",
         "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-32099",
+      "title": "Imperial AI Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "deadline": "2026-11-15",
+      "when_text": "Nov 14 - 15, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://imperial-ai-hackathon.devpost.com/",
+      "organizer": "Imperial AI Society",
+      "prize": "£0",
+      "tags": [
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-32088",
+      "title": "UBC eProjects x n8n LOOP Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "deadline": "2026-11-15",
+      "when_text": "Nov 14 - 15, 2026",
+      "location": "University of British Columbia",
+      "online": false,
+      "url": "https://loop.devpost.com/",
+      "organizer": "n8n",
+      "prize": "$CAD 1,000",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Web"
       ],
       "source": "devpost"
     },
