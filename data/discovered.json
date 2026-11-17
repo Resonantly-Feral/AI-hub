@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T15:38:33.782Z",
-  "checked": "2026-11-16T15:38:33.782Z",
+  "updated": "2026-11-17T15:56:26.735Z",
+  "checked": "2026-11-17T15:56:26.735Z",
   "sources": [
     {
       "name": "Devpost",
@@ -450,6 +450,26 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-31644",
+      "title": "Reddit’s Game of the Day Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-11",
+      "end": "2026-12-08",
+      "deadline": "2026-12-08",
+      "when_text": "Nov 11 - Dec 08, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://redditgameofday2026.devpost.com/",
+      "organizer": "reddit",
+      "prize": "$35,000",
+      "tags": [
+        "Beginner Friendly",
+        "Gaming"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-32024",
       "title": "Relate by Neo4j Hackathon",
       "type": "hackathon",
@@ -467,26 +487,6 @@
         "Databases",
         "Machine Learning/AI",
         "Productivity"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31644",
-      "title": "Reddit’s Game of the Day Hackathon",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-11-11",
-      "end": "2026-12-08",
-      "deadline": "2026-12-08",
-      "when_text": "Nov 11 - Dec 08, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://redditgameofday2026.devpost.com/",
-      "organizer": "reddit",
-      "prize": "$35,000",
-      "tags": [
-        "Beginner Friendly",
-        "Gaming"
       ],
       "source": "devpost"
     },
