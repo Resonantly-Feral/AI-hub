@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-17T15:56:26.735Z",
-  "checked": "2026-11-17T15:56:26.735Z",
+  "updated": "2026-11-18T15:35:49.130Z",
+  "checked": "2026-11-18T15:35:49.130Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 32
+      "count": 35
     }
   ],
   "events": [
@@ -31,27 +31,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-30764",
-      "title": "Syntax Summit",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-07-18",
-      "end": "2027-01-14",
-      "deadline": "2027-01-14",
-      "when_text": "Jul 18, 2026 - Jan 14, 2027",
-      "location": "Online",
-      "online": true,
-      "url": "https://syntax-summit.devpost.com/",
-      "organizer": "Student Organization",
-      "prize": "",
-      "tags": [
-        "DevOps",
-        "Machine Learning/AI",
-        "Robotic Process Automation"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31024",
       "title": "Meta VR Start Developer Competition 2026",
       "type": "hackathon",
@@ -69,26 +48,6 @@
         "AR/VR",
         "Machine Learning/AI",
         "Web"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31773",
-      "title": "LaunchPad Hacks (580k In Prizes!)",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-16",
-      "end": "2026-12-04",
-      "deadline": "2026-12-04",
-      "when_text": "Oct 16 - Dec 04, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://launchpad-hacks.devpost.com/",
-      "organizer": "Hack4TodayOrg",
-      "prize": "$300",
-      "tags": [
-        "Beginner Friendly",
-        "Open Ended"
       ],
       "source": "devpost"
     },
@@ -387,27 +346,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-32079",
-      "title": "Learn AR with SPECS",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-11-10",
-      "end": "2026-12-07",
-      "deadline": "2026-12-07",
-      "when_text": "Nov 10 - Dec 07, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://learn-specs.devpost.com/",
-      "organizer": "Devpost",
-      "prize": "$2,500",
-      "tags": [
-        "AR/VR",
-        "Design",
-        "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31973",
       "title": "Deck the Pixels",
       "type": "hackathon",
@@ -425,6 +363,27 @@
         "Design",
         "Machine Learning/AI",
         "Low/No Code"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-32079",
+      "title": "Learn AR with SPECS",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-10",
+      "end": "2026-12-07",
+      "deadline": "2026-12-07",
+      "when_text": "Nov 10 - Dec 07, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://learn-specs.devpost.com/",
+      "organizer": "Devpost",
+      "prize": "$2,500",
+      "tags": [
+        "AR/VR",
+        "Design",
+        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
@@ -554,6 +513,46 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-32158",
+      "title": "AI@UCF Semester Sprint",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-17",
+      "end": "2026-11-20",
+      "deadline": "2026-11-20",
+      "when_text": "Nov 17 - 20, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://semester-sprint.devpost.com/",
+      "organizer": "AI@ucf",
+      "prize": "",
+      "tags": [
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31571",
+      "title": "Cloud9 x JetBrains: Sky's The Limit Hackathon 2026",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-17",
+      "end": "2027-01-12",
+      "deadline": "2027-01-12",
+      "when_text": "Nov 17, 2026 - Jan 12, 2027",
+      "location": "Online",
+      "online": true,
+      "url": "https://cloud9.devpost.com/",
+      "organizer": "Cloud9",
+      "prize": "$25,000",
+      "tags": [
+        "Databases",
+        "Gaming",
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-32124",
       "title": "Diwali Festiverse: The Agent-to-Agent Hackathon (India Edition)",
       "type": "hackathon",
@@ -575,6 +574,48 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-31775",
+      "title": "OBSCURA: Satellite AI Research Challenge",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-18",
+      "end": "2026-11-24",
+      "deadline": "2026-11-24",
+      "when_text": "Nov 18 - 24, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://obscura.devpost.com/",
+      "organizer": "BTAJI CREW",
+      "prize": "$50",
+      "tags": [
+        "Education",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31886",
+      "title": "Build with AI - Pico Space Program",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-18",
+      "end": "2027-02-01",
+      "deadline": "2027-02-01",
+      "when_text": "Nov 18, 2026 - Feb 01, 2027",
+      "location": "Online",
+      "online": true,
+      "url": "https://pico-space-program.devpost.com/",
+      "organizer": "XR Bootcamp",
+      "prize": "$50,000",
+      "tags": [
+        "AR/VR",
+        "Machine Learning/AI",
+        "Web"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-30880",
       "title": "DevFest Münster 2026: Agentic AI Hackathon",
       "type": "hackathon",
@@ -592,6 +633,26 @@
         "Beginner Friendly",
         "Low/No Code",
         "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-32129",
+      "title": "Creator Economy Hack - powered by You.com",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-22",
+      "end": "2026-11-22",
+      "deadline": "2026-11-22",
+      "when_text": "Nov 22, 2026",
+      "location": "Whop HQ",
+      "online": false,
+      "url": "https://creator-economy-you-hack.devpost.com/",
+      "organizer": "localhost-nyc",
+      "prize": "$500",
+      "tags": [
+        "Machine Learning/AI",
+        "Web"
       ],
       "source": "devpost"
     },
