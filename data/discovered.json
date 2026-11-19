@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T15:35:49.130Z",
-  "checked": "2026-11-18T15:35:49.130Z",
+  "updated": "2026-11-19T15:41:12.673Z",
+  "checked": "2026-11-19T15:41:12.673Z",
   "sources": [
     {
       "name": "Devpost",
@@ -25,27 +25,6 @@
       "prize": "",
       "tags": [
         "Education",
-        "Machine Learning/AI",
-        "Web"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31024",
-      "title": "Meta VR Start Developer Competition 2026",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-09-24",
-      "end": "2026-11-18",
-      "deadline": "2026-11-18",
-      "when_text": "Sep 24 - Nov 18, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://start-developer-competition-26.devpost.com/",
-      "organizer": "Meta",
-      "prize": "$1,000,000",
-      "tags": [
-        "AR/VR",
         "Machine Learning/AI",
         "Web"
       ],
@@ -612,6 +591,27 @@
         "AR/VR",
         "Machine Learning/AI",
         "Web"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-32133",
+      "title": "Creators AI Winter Challenge ",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-19",
+      "end": "2026-11-21",
+      "deadline": "2026-11-21",
+      "when_text": "Nov 19 - 21, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://creators-ai-winter-challenge.devpost.com/",
+      "organizer": "Creators AI ",
+      "prize": "",
+      "tags": [
+        "Enterprise",
+        "Fintech",
+        "Productivity"
       ],
       "source": "devpost"
     },
