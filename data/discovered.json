@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-20T15:23:20.914Z",
-  "checked": "2026-11-20T15:23:20.914Z",
+  "updated": "2026-11-21T14:36:29.196Z",
+  "checked": "2026-11-21T14:36:29.196Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 35
+      "count": 32
     }
   ],
   "events": [
@@ -36,9 +36,9 @@
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-10-17",
-      "end": "2026-11-21",
-      "deadline": "2026-11-21",
-      "when_text": "Oct 17 - Nov 21, 2026",
+      "end": "2026-11-29",
+      "deadline": "2026-11-29",
+      "when_text": "Oct 17 - Nov 29, 2026",
       "location": "Online",
       "online": true,
       "url": "https://stem2connect-online-hackathon.devpost.com/",
@@ -69,27 +69,6 @@
         "Beginner Friendly",
         "Machine Learning/AI",
         "Open Ended"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-26475",
-      "title": "Dakar Bitcoin Hack by BTrust",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-10-26",
-      "end": "2026-11-20",
-      "deadline": "2026-11-20",
-      "when_text": "Oct 26 - Nov 20, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-      "organizer": "Dakar Bitcoin Days",
-      "prize": "$900",
-      "tags": [
-        "Blockchain",
-        "Fintech",
-        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
@@ -153,27 +132,6 @@
         "Beginner Friendly",
         "Machine Learning/AI",
         "Open Ended"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31960",
-      "title": "ML Empowerment Build Challenge 4.0 - Prizes and Certificates for EVERYONE",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-11-01",
-      "end": "2026-12-02",
-      "deadline": "2026-12-02",
-      "when_text": "Nov 01 - Dec 02, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://ml-build-challenge-4.devpost.com/",
-      "organizer": "ML Empowerment Foundation",
-      "prize": "",
-      "tags": [
-        "Beginner Friendly",
-        "Machine Learning/AI",
-        "Social Good"
       ],
       "source": "devpost"
     },
@@ -450,27 +408,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31746",
-      "title": "University Blockchain Conference Hackathon 2026",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-11-13",
-      "end": "2026-11-20",
-      "deadline": "2026-11-20",
-      "when_text": "Nov 13 - 20, 2026",
-      "location": "University of Texas at Austin",
-      "online": false,
-      "url": "https://ubc-hackathon-2026.devpost.com/",
-      "organizer": "college.xyz",
-      "prize": "$22,000",
-      "tags": [
-        "Blockchain",
-        "Fintech",
-        "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31905",
       "title": "Teens in AI Global Challenge 2027",
       "type": "hackathon",
@@ -488,25 +425,6 @@
         "Databases",
         "Web",
         "Beginner Friendly"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-32158",
-      "title": "AI@UCF Semester Sprint",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-11-17",
-      "end": "2026-11-20",
-      "deadline": "2026-11-20",
-      "when_text": "Nov 17 - 20, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://semester-sprint.devpost.com/",
-      "organizer": "AI@ucf",
-      "prize": "",
-      "tags": [
-        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
@@ -616,23 +534,40 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-30880",
-      "title": "DevFest Münster 2026: Agentic AI Hackathon",
+      "id": "devpost-31826",
+      "title": "Global AI Builder’s Challenge",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-21",
+      "end": "2026-11-28",
+      "deadline": "2026-11-28",
+      "when_text": "Nov 21 - 28, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://global-ai-builders-challenge.devpost.com/",
+      "organizer": "Refactor The World",
+      "prize": "",
+      "tags": [
+        "Machine Learning/AI"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-32202",
+      "title": "Javathon | AI-Free Hackathon",
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-11-21",
       "end": "2026-11-21",
       "deadline": "2026-11-21",
       "when_text": "Nov 21, 2026",
-      "location": "Volkshochschule",
+      "location": "UNC Pembroke - Oxendine Science RM 1202",
       "online": false,
-      "url": "https://devfest-ai-hackathon.devpost.com/",
-      "organizer": "GDG Münster",
-      "prize": "",
+      "url": "https://javathon-ai-free-hackathon.devpost.com/",
+      "organizer": "ACM Student Chapter",
+      "prize": "$150",
       "tags": [
-        "Beginner Friendly",
-        "Low/No Code",
-        "Machine Learning/AI"
+        "Beginner Friendly"
       ],
       "source": "devpost"
     },
@@ -645,7 +580,7 @@
       "end": "2026-11-22",
       "deadline": "2026-11-22",
       "when_text": "Nov 22, 2026",
-      "location": "Whop HQ",
+      "location": "XDC",
       "online": false,
       "url": "https://creator-economy-you-hack.devpost.com/",
       "organizer": "localhost-nyc",
@@ -669,7 +604,7 @@
       "online": false,
       "url": "https://build-day.devpost.com/",
       "organizer": "Durham College",
-      "prize": "",
+      "prize": "£1,000",
       "tags": [
         "Beginner Friendly",
         "Machine Learning/AI",
