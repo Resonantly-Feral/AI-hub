@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-21T14:36:29.196Z",
-  "checked": "2026-11-21T14:36:29.196Z",
+  "updated": "2026-11-22T14:30:05.433Z",
+  "checked": "2026-11-22T14:30:05.433Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 32
+      "count": 33
     }
   ],
   "events": [
@@ -132,6 +132,27 @@
         "Beginner Friendly",
         "Machine Learning/AI",
         "Open Ended"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31960",
+      "title": "ML Empowerment Build Challenge 4.0 - Prizes and Certificates for EVERYONE",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-01",
+      "end": "2026-12-02",
+      "deadline": "2026-12-02",
+      "when_text": "Nov 01 - Dec 02, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://ml-build-challenge-4.devpost.com/",
+      "organizer": "ML Empowerment Foundation",
+      "prize": "",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Social Good"
       ],
       "source": "devpost"
     },
@@ -518,9 +539,9 @@
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-11-19",
-      "end": "2026-11-21",
-      "deadline": "2026-11-21",
-      "when_text": "Nov 19 - 21, 2026",
+      "end": "2026-11-22",
+      "deadline": "2026-11-22",
+      "when_text": "Nov 19 - 22, 2026",
       "location": "Online",
       "online": true,
       "url": "https://creators-ai-winter-challenge.devpost.com/",
@@ -553,25 +574,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-32202",
-      "title": "Javathon | AI-Free Hackathon",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-11-21",
-      "end": "2026-11-21",
-      "deadline": "2026-11-21",
-      "when_text": "Nov 21, 2026",
-      "location": "UNC Pembroke - Oxendine Science RM 1202",
-      "online": false,
-      "url": "https://javathon-ai-free-hackathon.devpost.com/",
-      "organizer": "ACM Student Chapter",
-      "prize": "$150",
-      "tags": [
-        "Beginner Friendly"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-32129",
       "title": "Creator Economy Hack - powered by You.com",
       "type": "hackathon",
@@ -588,6 +590,27 @@
       "tags": [
         "Machine Learning/AI",
         "Web"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-32208",
+      "title": "Agents that act. Systems that answer.",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-28",
+      "end": "2026-12-01",
+      "deadline": "2026-12-01",
+      "when_text": "Nov 28 - Dec 01, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://accountable-agents.devpost.com/",
+      "organizer": "studentchakra",
+      "prize": "",
+      "tags": [
+        "Education",
+        "Machine Learning/AI",
+        "Open Ended"
       ],
       "source": "devpost"
     },
