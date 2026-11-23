@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-22T14:30:05.433Z",
-  "checked": "2026-11-22T14:30:05.433Z",
+  "updated": "2026-11-23T17:59:57.522Z",
+  "checked": "2026-11-23T17:59:57.522Z",
   "sources": [
     {
       "name": "Devpost",
       "ok": true,
-      "count": 33
+      "count": 34
     }
   ],
   "events": [
@@ -78,9 +78,9 @@
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-10-27",
-      "end": "2026-11-27",
-      "deadline": "2026-11-27",
-      "when_text": "Oct 27 - Nov 27, 2026",
+      "end": "2026-12-09",
+      "deadline": "2026-12-09",
+      "when_text": "Oct 27 - Dec 09, 2026",
       "location": "Online",
       "online": true,
       "url": "https://build-your-first-ai-app.devpost.com/",
@@ -137,7 +137,7 @@
     },
     {
       "id": "devpost-31960",
-      "title": "ML Empowerment Build Challenge 4.0 - Prizes and Certificates for EVERYONE",
+      "title": "ML Empowerment Build Challenge 4.0 (250K IN PRIZES!)",
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-11-01",
@@ -539,9 +539,9 @@
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-11-19",
-      "end": "2026-11-22",
-      "deadline": "2026-11-22",
-      "when_text": "Nov 19 - 22, 2026",
+      "end": "2026-11-24",
+      "deadline": "2026-11-24",
+      "when_text": "Nov 19 - 24, 2026",
       "location": "Online",
       "online": true,
       "url": "https://creators-ai-winter-challenge.devpost.com/",
@@ -570,26 +570,6 @@
       "prize": "",
       "tags": [
         "Machine Learning/AI"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-32129",
-      "title": "Creator Economy Hack - powered by You.com",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-11-22",
-      "end": "2026-11-22",
-      "deadline": "2026-11-22",
-      "when_text": "Nov 22, 2026",
-      "location": "XDC",
-      "online": false,
-      "url": "https://creator-economy-you-hack.devpost.com/",
-      "organizer": "localhost-nyc",
-      "prize": "$500",
-      "tags": [
-        "Machine Learning/AI",
-        "Web"
       ],
       "source": "devpost"
     },
@@ -653,6 +633,46 @@
         "IoT",
         "Machine Learning/AI",
         "Enterprise"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-32209",
+      "title": "JanHacks 2027",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2027-01-01",
+      "end": "2027-03-01",
+      "deadline": "2027-03-01",
+      "when_text": "Jan 01 - Mar 01, 2027",
+      "location": "Online",
+      "online": true,
+      "url": "https://janhacks-2027.devpost.com/",
+      "organizer": "JanHacks",
+      "prize": "",
+      "tags": [
+        "Beginner Friendly",
+        "Design",
+        "Open Ended"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31134",
+      "title": "MACHINE AGE",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2027-01-01",
+      "end": "2027-03-31",
+      "deadline": "2027-03-31",
+      "when_text": "Jan 01 - Mar 31, 2027",
+      "location": "Online",
+      "online": true,
+      "url": "https://machineage.devpost.com/",
+      "organizer": "Paramam",
+      "prize": "$10,000",
+      "tags": [
+        "Machine Learning/AI"
       ],
       "source": "devpost"
     },
