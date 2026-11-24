@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23T17:59:57.522Z",
-  "checked": "2026-11-23T17:59:57.522Z",
+  "updated": "2026-11-24T17:38:08.212Z",
+  "checked": "2026-11-24T17:38:08.212Z",
   "sources": [
     {
       "name": "Devpost",
@@ -367,6 +367,27 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-32026",
+      "title": "Open Agentic Web Challenge",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-11",
+      "end": "2027-01-11",
+      "deadline": "2027-01-11",
+      "when_text": "Nov 11, 2026 - Jan 11, 2027",
+      "location": "Online",
+      "online": true,
+      "url": "https://cognizant-agenticweb.devpost.com/",
+      "organizer": "Cognizant",
+      "prize": "$10,000",
+      "tags": [
+        "Machine Learning/AI",
+        "Web",
+        "Social Good"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-31644",
       "title": "Reddit’s Game of the Day Hackathon",
       "type": "hackathon",
@@ -404,27 +425,6 @@
         "Databases",
         "Machine Learning/AI",
         "Productivity"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-32026",
-      "title": "Open Agentic Web Challenge",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-11-11",
-      "end": "2027-01-11",
-      "deadline": "2027-01-11",
-      "when_text": "Nov 11, 2026 - Jan 11, 2027",
-      "location": "Online",
-      "online": true,
-      "url": "https://cognizant-agenticweb.devpost.com/",
-      "organizer": "Cognizant",
-      "prize": "$10,000",
-      "tags": [
-        "Machine Learning/AI",
-        "Web",
-        "Social Good"
       ],
       "source": "devpost"
     },
@@ -471,35 +471,14 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-32124",
-      "title": "Diwali Festiverse: The Agent-to-Agent Hackathon (India Edition)",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-11-17",
-      "end": "2026-11-24",
-      "deadline": "2026-11-24",
-      "when_text": "Nov 17 - 24, 2026",
-      "location": "OJone Building, Bengaluru. ",
-      "online": false,
-      "url": "https://theagent-to-agent-hackathon.devpost.com/",
-      "organizer": "hidevs",
-      "prize": "$700",
-      "tags": [
-        "DevOps",
-        "Machine Learning/AI",
-        "Robotic Process Automation"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31775",
       "title": "OBSCURA: Satellite AI Research Challenge",
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-11-18",
-      "end": "2026-11-24",
-      "deadline": "2026-11-24",
-      "when_text": "Nov 18 - 24, 2026",
+      "end": "2026-11-30",
+      "deadline": "2026-11-30",
+      "when_text": "Nov 18 - 30, 2026",
       "location": "Online",
       "online": true,
       "url": "https://obscura.devpost.com/",
@@ -574,6 +553,27 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-31956",
+      "title": "Build Day 2",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-24",
+      "end": "2026-11-24",
+      "deadline": "2026-11-24",
+      "when_text": "Nov 24, 2026",
+      "location": "Durham University, Entrepreneurs Durham",
+      "online": false,
+      "url": "https://build-day.devpost.com/",
+      "organizer": "Durham College",
+      "prize": "£1,000",
+      "tags": [
+        "Beginner Friendly",
+        "Machine Learning/AI",
+        "Voice skills"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-32208",
       "title": "Agents that act. Systems that answer.",
       "type": "hackathon",
@@ -595,27 +595,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-31956",
-      "title": "Build Day 2",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-11-28",
-      "end": "2026-11-28",
-      "deadline": "2026-11-28",
-      "when_text": "Nov 28, 2026",
-      "location": "Durham University, Entrepreneurs Durham",
-      "online": false,
-      "url": "https://build-day.devpost.com/",
-      "organizer": "Durham College",
-      "prize": "£1,000",
-      "tags": [
-        "Beginner Friendly",
-        "Machine Learning/AI",
-        "Voice skills"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-32042",
       "title": "The Dawn of Superintelligence | Kaya AI Grand Challenge ",
       "type": "hackathon",
@@ -633,6 +612,27 @@
         "IoT",
         "Machine Learning/AI",
         "Enterprise"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-32231",
+      "title": "Zyrelyx Global AI Hackathon",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-12-01",
+      "end": "2026-12-07",
+      "deadline": "2026-12-07",
+      "when_text": "Dec 01 - 07, 2026",
+      "location": "Online",
+      "online": true,
+      "url": "https://zyrelyx-global-ai-hackathon.devpost.com/",
+      "organizer": "Zyrelyx",
+      "prize": "$15,000",
+      "tags": [
+        "Machine Learning/AI",
+        "Open Ended",
+        "Web"
       ],
       "source": "devpost"
     },
