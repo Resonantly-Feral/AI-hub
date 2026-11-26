@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T17:08:43.885Z",
-  "checked": "2026-11-25T17:08:43.885Z",
+  "updated": "2026-11-26T16:50:02.441Z",
+  "checked": "2026-11-26T16:50:02.441Z",
   "sources": [
     {
       "name": "Devpost",
@@ -518,9 +518,9 @@
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-11-19",
-      "end": "2026-11-25",
-      "deadline": "2026-11-25",
-      "when_text": "Nov 19 - 25, 2026",
+      "end": "2026-11-27",
+      "deadline": "2026-11-27",
+      "when_text": "Nov 19 - 27, 2026",
       "location": "Online",
       "online": true,
       "url": "https://creators-ai-winter-challenge.devpost.com/",
