@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26T16:50:02.441Z",
-  "checked": "2026-11-26T16:50:02.441Z",
+  "updated": "2026-11-27T16:35:33.496Z",
+  "checked": "2026-11-27T16:35:33.496Z",
   "sources": [
     {
       "name": "Devpost",
@@ -493,7 +493,7 @@
     },
     {
       "id": "devpost-31886",
-      "title": "Build with AI - Pico Space Program",
+      "title": "Build with AI - PICO Space Program",
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-11-18",
