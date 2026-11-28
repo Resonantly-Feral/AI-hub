@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27T16:35:33.496Z",
-  "checked": "2026-11-27T16:35:33.496Z",
+  "updated": "2026-11-28T15:27:41.764Z",
+  "checked": "2026-11-28T15:27:41.764Z",
   "sources": [
     {
       "name": "Devpost",
@@ -132,27 +132,6 @@
         "Beginner Friendly",
         "Machine Learning/AI",
         "Open Ended"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31960",
-      "title": "ML Empowerment Build Challenge 4.0 (250K IN PRIZES!)",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2026-11-01",
-      "end": "2026-12-02",
-      "deadline": "2026-12-02",
-      "when_text": "Nov 01 - Dec 02, 2026",
-      "location": "Online",
-      "online": true,
-      "url": "https://ml-build-challenge-4.devpost.com/",
-      "organizer": "ML Empowerment Foundation",
-      "prize": "",
-      "tags": [
-        "Beginner Friendly",
-        "Machine Learning/AI",
-        "Social Good"
       ],
       "source": "devpost"
     },
@@ -518,9 +497,9 @@
       "type": "hackathon",
       "platform": "Devpost",
       "start": "2026-11-19",
-      "end": "2026-11-27",
-      "deadline": "2026-11-27",
-      "when_text": "Nov 19 - 27, 2026",
+      "end": "2026-11-29",
+      "deadline": "2026-11-29",
+      "when_text": "Nov 19 - 29, 2026",
       "location": "Online",
       "online": true,
       "url": "https://creators-ai-winter-challenge.devpost.com/",
@@ -574,6 +553,46 @@
       "source": "devpost"
     },
     {
+      "id": "devpost-32078",
+      "title": "Westside Build Challenge",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-24",
+      "end": "2026-12-01",
+      "deadline": "2026-12-01",
+      "when_text": "Nov 24 - Dec 01, 2026",
+      "location": "Online — no in-person attendance",
+      "online": true,
+      "url": "https://whs-build.devpost.com/",
+      "organizer": "Westside Coding Club",
+      "prize": "",
+      "tags": [
+        "Beginner Friendly",
+        "Low/No Code",
+        "Education"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-31995",
+      "title": "Alan x Qovery x AWS: AI Health Hack 2",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "deadline": "2026-11-28",
+      "when_text": "Nov 28, 2026",
+      "location": "Alan HQ",
+      "online": false,
+      "url": "https://ai-health-hack-2.devpost.com/",
+      "organizer": "Alan",
+      "prize": "€4,700",
+      "tags": [
+        "Health"
+      ],
+      "source": "devpost"
+    },
+    {
       "id": "devpost-32208",
       "title": "Agents that act. Systems that answer.",
       "type": "hackathon",
@@ -612,6 +631,26 @@
         "IoT",
         "Machine Learning/AI",
         "Enterprise"
+      ],
+      "source": "devpost"
+    },
+    {
+      "id": "devpost-32260",
+      "title": "Agentic AI @ UIUC x ElevenLabs: Voice Agents Build Night",
+      "type": "hackathon",
+      "platform": "Devpost",
+      "start": "2026-11-30",
+      "end": "2026-11-30",
+      "deadline": "2026-11-30",
+      "when_text": "Nov 30, 2026",
+      "location": "Sunset Studio, Siebel Center for Design",
+      "online": false,
+      "url": "https://agentic-ai-elevenlabs-night.devpost.com/",
+      "organizer": "Agentic AI @ UIUC",
+      "prize": "",
+      "tags": [
+        "Machine Learning/AI",
+        "Voice skills"
       ],
       "source": "devpost"
     },
@@ -677,27 +716,6 @@
       "source": "devpost"
     },
     {
-      "id": "devpost-32213",
-      "title": "SunnyHacks Jan 2027",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2027-01-25",
-      "end": "2027-02-01",
-      "deadline": "2027-02-01",
-      "when_text": "Jan 25 - Feb 01, 2027",
-      "location": "Online",
-      "online": true,
-      "url": "https://sunnyhacks-jan-2027.devpost.com/",
-      "organizer": "SunnyHacks",
-      "prize": "",
-      "tags": [
-        "Beginner Friendly",
-        "Machine Learning/AI",
-        "Productivity"
-      ],
-      "source": "devpost"
-    },
-    {
       "id": "devpost-31681",
       "title": "Decisions Modeling for Greater Philadelphia",
       "type": "hackathon",
@@ -715,26 +733,6 @@
         "Machine Learning/AI",
         "Web",
         "Enterprise"
-      ],
-      "source": "devpost"
-    },
-    {
-      "id": "devpost-31148",
-      "title": "KeanUHackThis 2027",
-      "type": "hackathon",
-      "platform": "Devpost",
-      "start": "2027-04-02",
-      "end": "2027-04-03",
-      "deadline": "2027-04-03",
-      "when_text": "Apr 02 - 03, 2027",
-      "location": "Online",
-      "online": true,
-      "url": "https://keauhackthis-2027.devpost.com/",
-      "organizer": "Kean University",
-      "prize": "",
-      "tags": [
-        "Machine Learning/AI",
-        "Web"
       ],
       "source": "devpost"
     }
